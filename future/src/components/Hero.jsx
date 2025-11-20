@@ -6,8 +6,7 @@ export default function Hero({
   title = "O Futuro do Trabalho Começa Aqui",
   subtitle = "Conectando pessoas, competências e propósito através da tecnologia",
   text = "Uma plataforma que transforma relações profissionais e promove um futuro mais justo, inclusivo e sustentável",
-  ctaPrimary = { to: '/dashboard', label: 'Comece Agora' },
-  ctaSecondary = { to: '/about', label: 'Saiba Mais' },
+  children
 }) {
   return (
     <section
@@ -32,17 +31,7 @@ export default function Hero({
           </p>
 
           <div className="mt-8 flex items-center justify-center gap-4">
-            <Link to={ctaPrimary.to} className="inline-block">
-              <Button variant='transparent' className="border-2 bg-black hover:bg-transparent hover:text-black">
-                {ctaPrimary.label}
-              </Button>
-            </Link>
-
-            <Link to={ctaSecondary.to} className="inline-block">
-              <Button className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-black">
-                {ctaSecondary.label}
-              </Button>
-            </Link>
+            {children}
           </div>
         </div>
       </div>

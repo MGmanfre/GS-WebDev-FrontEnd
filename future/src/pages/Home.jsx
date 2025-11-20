@@ -7,11 +7,24 @@ import { BsBriefcaseFill } from "react-icons/bs";
 import { IoBookOutline } from "react-icons/io5";
 import { MdOutlineEmail } from "react-icons/md";
 import IconBadge from '@/components/IconBadge';
+import { Link } from 'react-router-dom';
+import Button from '@/components/Button';
 
 export default function Home() {
   return (
     <main>
-      <Hero/>
+      <Hero>
+        <Link to="/dashboard" className="inline-block">
+            <Button variant='transparent' className="border-2 bg-black hover:bg-transparent hover:text-black">
+                Comece Agora
+            </Button>
+        </Link>
+        <Link to="/about" className="inline-block">
+            <Button className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-black">
+                Saiba Mais
+            </Button>
+        </Link>
+      </Hero>
       <section className="bg-zinc-800 py-16">
         <div className="max-w-7xl mx-auto px-6 flex flex-col items-center">
           <h2 className="text-white font-bold text-2xl sm:text-3xl md:text-4xl lg:text-5xl leading-tight">Por que escolher o SkillBridge?</h2>
