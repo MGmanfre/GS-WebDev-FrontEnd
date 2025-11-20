@@ -1,0 +1,6607 @@
+[
+  {
+    "id": 1,
+    "nome": "Rebeca Silva",
+    "email": "Rebeca.Silva56@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/60.jpg",
+    "cargo": "Principal Implementação Designer",
+    "resumo": "Persistent 24 hour portal",
+    "localizacao": "Ana Clara do Descoberto/TO",
+    "area": "Data/IA",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Kanban",
+      "Machine Learning",
+      "Node.js",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Empatia",
+      "Liderança Servidora"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo LTDA",
+        "cargo": "Global Programa Gerente",
+        "inicio": "2021-04",
+        "fim": "2024-06",
+        "descricao": "In delectus fugit reiciendis perferendis veritatis."
+      },
+      {
+        "empresa": "Silva, Albuquerque e Moraes",
+        "cargo": "Regional Qualidade Designer",
+        "inicio": "2025-06",
+        "fim": "2025-07",
+        "descricao": "Nam est animi error magnam eos iusto nobis."
+      },
+      {
+        "empresa": "Silva, Reis e Martins",
+        "cargo": "Avançar Soluções Engenheiro",
+        "inicio": "2022-07",
+        "fim": "2025-11",
+        "descricao": "A alias perspiciatis sint odit esse soluta pariatur incidunt nam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Carvalho, Martins e Moreira University",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "dolorem culpa officiis",
+        "link": "https://alto-papel.org/",
+        "descricao": "Ullam dolore consectetur ipsum numquam."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Sustentabilidade",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Isabel Costa",
+    "email": "Isabel.Costa84@gmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/79.jpg",
+    "cargo": "Humano Pesquisar Atentende",
+    "resumo": "Sustainable next generation application",
+    "localizacao": "Moraes de Nossa Senhora/SP",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "AWS",
+      "React",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Liderança Servidora",
+      "Comunicação",
+      "Resiliência",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Braga Comércio",
+        "cargo": "Líder Configuration Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "Atual",
+        "descricao": "Itaque tenetur natus eveniet."
+      },
+      {
+        "empresa": "Batista EIRELI",
+        "cargo": "Futuro Criativo Produtor",
+        "inicio": "2024-12",
+        "fim": "2025-05",
+        "descricao": "Tempore laborum rerum recusandae."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Braga S.A. University",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "quae ad quia",
+        "link": "https://celestial-fatura.info/",
+        "descricao": "Iste atque suscipit amet debitis vitae velit quae."
+      }
+    ],
+    "certificacoes": [
+      "Azure Data Scientist",
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Arthur Melo",
+    "email": "Arthur.Melo@hotmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/67.jpg",
+    "cargo": "Humano Segurança Representante",
+    "resumo": "Fundamental uniform process improvement",
+    "localizacao": "Barros do Norte/MT",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "Python",
+      "UX Research",
+      "AWS"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Adaptabilidade",
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Nogueira e Associados",
+        "cargo": "Humano Métricas Planejador",
+        "inicio": "2022-07",
+        "fim": "Atual",
+        "descricao": "Necessitatibus occaecati quas ab atque ducimus."
+      },
+      {
+        "empresa": "Xavier-Pereira",
+        "cargo": "Humano Métricas Supervisor",
+        "inicio": "2023-04",
+        "fim": "2024-06",
+        "descricao": "Repudiandae deleniti aut quas sed harum minima tempore earum."
+      },
+      {
+        "empresa": "Oliveira, Xavier e Batista",
+        "cargo": "Produto Web Atentende",
+        "inicio": "2022-06",
+        "fim": "Atual",
+        "descricao": "Tempore eligendi maiores repudiandae ad."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Batista-Silva University",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "dolore nesciunt eligendi",
+        "link": "https://velho-reuniao.com/",
+        "descricao": "Rerum non esse ex totam unde reprehenderit praesentium mollitia id."
+      }
+    ],
+    "certificacoes": [
+      "Azure Data Scientist",
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Eduardo Souza",
+    "email": "Eduardo_Souza82@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/74.jpg",
+    "cargo": "Senior Resposta Associado",
+    "resumo": "Persevering optimizing hardware",
+    "localizacao": "Heloísa do Descoberto/ES",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "UX Research",
+      "Python",
+      "SQL"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Empatia",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Albuquerque, Moraes e Nogueira",
+        "cargo": "Corporativo Divisão Analista",
+        "inicio": "2025-05",
+        "fim": "2025-08",
+        "descricao": "Eaque ex quibusdam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Oliveira-Macedo University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "nam laborum nihil",
+        "link": "https://furioso-carroca.name/",
+        "descricao": "Ullam iure beatae est."
+      }
+    ],
+    "certificacoes": [
+      "ISTQB Foundation Level",
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "Sustentabilidade",
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Maitê Nogueira",
+    "email": "Maite_Nogueira@bol.com.br",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/16.jpg",
+    "cargo": "Corporativo Infraestrutura Coordenador",
+    "resumo": "Grass-roots clear-thinking time-frame",
+    "localizacao": "Marli do Descoberto/PA",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "Scrum",
+      "Kanban",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Pensamento Crítico",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Martins EIRELI",
+        "cargo": "Avançar Pesquisar Estrategista",
+        "inicio": "2025-11",
+        "fim": "2025-07",
+        "descricao": "Non iusto fuga."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Moreira-Silva University",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "voluptates magnam deserunt",
+        "link": "https://brilhante-mochila.br",
+        "descricao": "Necessitatibus deleniti sunt non deleniti veniam."
+      },
+      {
+        "titulo": "nisi minima hic",
+        "link": "https://desorganizado-macaco.br",
+        "descricao": "Odio explicabo officiis sed ratione."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Antônio Pereira",
+    "email": "Antonio_Pereira93@live.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/87.jpg",
+    "cargo": "Produto Mobilidade Consultor",
+    "resumo": "Sustainable full-range analyzer",
+    "localizacao": "Albuquerque do Descoberto/SP",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "AWS",
+      "Scrum",
+      "Python",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Adaptabilidade",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo-Martins",
+        "cargo": "Avançar Aplicações Associado",
+        "inicio": "2023-06",
+        "fim": "2024-11",
+        "descricao": "Quasi dolorem maiores blanditiis necessitatibus tempora corrupti earum error."
+      },
+      {
+        "empresa": "Carvalho-Santos",
+        "cargo": "Regional Infraestrutura Especialista",
+        "inicio": "2024-04",
+        "fim": "Atual",
+        "descricao": "Amet provident officia aliquid temporibus qui modi."
+      },
+      {
+        "empresa": "Costa, Costa e Souza",
+        "cargo": "Nacional Implementation Diretor",
+        "inicio": "2022-11",
+        "fim": "2024-04",
+        "descricao": "Sapiente facilis saepe itaque perspiciatis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Souza Comércio University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified",
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Lívia Barros",
+    "email": "Livia_Barros@live.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/20.jpg",
+    "cargo": "Investidor Funcionalidade Especialista",
+    "resumo": "Sharable tertiary benchmark",
+    "localizacao": "Joana de Nossa Senhora/AP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Kanban",
+      "Vue.js",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Gestão de Conflitos",
+      "Liderança Servidora"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Martins-Costa",
+        "cargo": "Humano Diretivas Agente",
+        "inicio": "2025-08",
+        "fim": "Atual",
+        "descricao": "Esse delectus dignissimos asperiores consequatur id aliquid quibusdam quasi aliquam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Braga EIRELI University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "vero rerum facilis",
+        "link": "https://mau-vizinho.org",
+        "descricao": "Nemo laboriosam molestias."
+      }
+    ],
+    "certificacoes": [
+      "ISTQB Foundation Level",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Anthony Pereira",
+    "email": "Anthony_Pereira@hotmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/9.jpg",
+    "cargo": "International Mercados Consultor",
+    "resumo": "Secured actuating budgetary management",
+    "localizacao": "Albuquerque de Nossa Senhora/RO",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Python",
+      "UX Research",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Oliveira e Associados",
+        "cargo": "Global Otimização Executivo",
+        "inicio": "2022-04",
+        "fim": "2025-08",
+        "descricao": "Voluptas asperiores exercitationem reiciendis amet asperiores similique hic eveniet tempora."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Nogueira LTDA University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "maxime odit expedita",
+        "link": "https://mal-educado-perfil.com/",
+        "descricao": "Facere atque soluta minus ipsum rem."
+      },
+      {
+        "titulo": "nisi quibusdam deserunt",
+        "link": "https://desorganizado-cimento.com",
+        "descricao": "Libero earum animi non soluta possimus."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Web3"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Sirineu Macedo",
+    "email": "Sirineu.Macedo60@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/76.jpg",
+    "cargo": "Dinâmico Implementation Gerente",
+    "resumo": "Profit-focused disintermediate framework",
+    "localizacao": "Silas de Nossa Senhora/SE",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Scrum",
+      "Machine Learning",
+      "Python"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança Servidora"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo, Batista e Pereira",
+        "cargo": "Corporativo Paradigma Técnico",
+        "inicio": "2023-01",
+        "fim": "2025-02",
+        "descricao": "Dignissimos doloremque maxime nobis doloribus eaque nulla."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Santos-Macedo University",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "adipisci sint laborum",
+        "link": "https://confiante-sopa.biz",
+        "descricao": "Corporis doloremque non adipisci optio."
+      },
+      {
+        "titulo": "iste dolorem possimus",
+        "link": "https://largo-refrigerante.name",
+        "descricao": "Vitae laboriosam laborum minima voluptates."
+      }
+    ],
+    "certificacoes": [
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "Web3",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Noah Santos",
+    "email": "Noah.Santos@hotmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/65.jpg",
+    "cargo": "Regional Marca Engenheiro",
+    "resumo": "Fundamental motivating projection",
+    "localizacao": "Saraiva do Descoberto/SC",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Node.js",
+      "Scrum",
+      "Terraform"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Adaptabilidade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo, Melo e Braga",
+        "cargo": "Chefe Mercados Arquiteto",
+        "inicio": "2022-07",
+        "fim": "2025-01",
+        "descricao": "Fugiat omnis excepturi voluptas ea."
+      },
+      {
+        "empresa": "Albuquerque, Moreira e Xavier",
+        "cargo": "Direto Branding Associado",
+        "inicio": "2025-06",
+        "fim": "Atual",
+        "descricao": "Itaque illo sit odit odio libero inventore impedit."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Braga, Xavier e Martins University",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "quibusdam quod fugit",
+        "link": "https://colorido-coracao.com/",
+        "descricao": "Dolores ratione deleniti."
+      },
+      {
+        "titulo": "neque eligendi harum",
+        "link": "https://curioso-interruptor.com/",
+        "descricao": "Neque voluptatibus porro voluptatibus facilis reprehenderit accusamus distinctio nulla vero."
+      }
+    ],
+    "certificacoes": [
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Larissa Martins",
+    "email": "Larissa.Martins49@yahoo.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/68.jpg",
+    "cargo": "Avançar Operações Atentende",
+    "resumo": "Organized tertiary infrastructure",
+    "localizacao": "Souza de Nossa Senhora/PE",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "Scrum",
+      "SQL",
+      "Machine Learning",
+      "Terraform"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Silva, Oliveira e Braga",
+        "cargo": "Humano Grupo Coordenador",
+        "inicio": "2025-08",
+        "fim": "2024-08",
+        "descricao": "Nobis ex natus molestiae voluptates fuga excepturi quas saepe aperiam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Melo S.A. University",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified",
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Lavínia Moreira",
+    "email": "Lavinia.Moreira@live.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/38.jpg",
+    "cargo": "Corporativo Programa Supervisor",
+    "resumo": "Face to face client-driven flexibility",
+    "localizacao": "Joaquim do Norte/SC",
+    "area": "Data/IA",
+    "habilidadesTecnicas": [
+      "Python",
+      "DevOps",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Macedo e Associados",
+        "cargo": "Interno Qualidade Designer",
+        "inicio": "2022-03",
+        "fim": "Atual",
+        "descricao": "Modi est illum numquam exercitationem aperiam explicabo similique."
+      },
+      {
+        "empresa": "Braga-Santos",
+        "cargo": "Nacional Criativo Analista",
+        "inicio": "2023-12",
+        "fim": "2024-09",
+        "descricao": "Consectetur et itaque ipsum aliquid aperiam dolor quibusdam quaerat."
+      },
+      {
+        "empresa": "Santos, Silva e Braga",
+        "cargo": "Nacional Fatores Desenvolvedor",
+        "inicio": "2022-06",
+        "fim": "2023-11",
+        "descricao": "Tenetur odit occaecati sapiente atque molestias minus quod doloremque."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Xavier-Franco University",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "maxime a tenetur",
+        "link": "https://invisivel-lua.org",
+        "descricao": "Vel ab modi esse repellat."
+      }
+    ],
+    "certificacoes": [
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA ética",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Heloísa Silva",
+    "email": "Heloisa.Silva41@hotmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/78.jpg",
+    "cargo": "Produto Identidade Gerente",
+    "resumo": "Persistent global capability",
+    "localizacao": "Paula do Descoberto/MS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "DevOps",
+      "Terraform",
+      "Figma",
+      "AWS"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Comunicação",
+      "Empatia",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Barros LTDA",
+        "cargo": "Corporativo Marca Orquestrador",
+        "inicio": "2021-07",
+        "fim": "2024-02",
+        "descricao": "Nisi praesentium quidem esse ullam blanditiis illum amet fuga voluptatibus."
+      },
+      {
+        "empresa": "Melo, Saraiva e Reis",
+        "cargo": "Direto Interações Representante",
+        "inicio": "2024-04",
+        "fim": "2024-08",
+        "descricao": "Accusamus omnis aliquam accusantium deleniti accusantium ut quo libero."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Santos S.A. University",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "tempora cum ex",
+        "link": "https://claro-manha.com",
+        "descricao": "Dicta nostrum eaque provident debitis fugiat qui."
+      },
+      {
+        "titulo": "animi fugit in",
+        "link": "https://gordo-cartao.br/",
+        "descricao": "Adipisci dicta nihil voluptas a aspernatur ipsam."
+      }
+    ],
+    "certificacoes": [
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cultura Organizacional",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Deneval Braga",
+    "email": "Deneval_Braga45@yahoo.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/89.jpg",
+    "cargo": "Cliente Prestação de contas Supervisor",
+    "resumo": "Immersive context-sensitive instruction set",
+    "localizacao": "Paulo do Descoberto/MG",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "React",
+      "Machine Learning",
+      "Kanban",
+      "AWS"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Gestão de Conflitos",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Batista-Santos",
+        "cargo": "Central Otimização Estrategista",
+        "inicio": "2022-03",
+        "fim": "Atual",
+        "descricao": "Velit doloribus ratione veniam perspiciatis error."
+      },
+      {
+        "empresa": "Batista, Carvalho e Braga",
+        "cargo": "Corporativo Branding Administrador",
+        "inicio": "2023-05",
+        "fim": "Atual",
+        "descricao": "Provident enim consequuntur at dolor provident enim consequuntur."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Saraiva, Pereira e Santos University",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "temporibus voluptatem molestiae",
+        "link": "https://humano-imposto.br",
+        "descricao": "Ex quasi quia vitae nihil id quas placeat voluptate."
+      }
+    ],
+    "certificacoes": [
+      "Azure Data Scientist",
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Web3"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Antônio Santos",
+    "email": "Antonio.Santos27@bol.com.br",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/88.jpg",
+    "cargo": "International Mercados Executivo",
+    "resumo": "Horizontal discrete attitude",
+    "localizacao": "Célia do Descoberto/MS",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "Python",
+      "Node.js",
+      "AWS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Barros, Albuquerque e Silva",
+        "cargo": "Senior Pesquisar Supervisor",
+        "inicio": "2024-05",
+        "fim": "Atual",
+        "descricao": "Ullam et optio voluptate labore nemo molestias."
+      },
+      {
+        "empresa": "Silva e Associados",
+        "cargo": "Interno Interações Policial",
+        "inicio": "2023-02",
+        "fim": "2025-01",
+        "descricao": "Repellat rerum maiores maiores."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Moreira EIRELI University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "quis veritatis ipsam",
+        "link": "https://alto-leite.biz/",
+        "descricao": "Veritatis aliquid similique veniam error molestiae repellat fugit molestias ut."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Sara Carvalho",
+    "email": "Sara.Carvalho@live.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/14.jpg",
+    "cargo": "Investidor Comunicações Diretor",
+    "resumo": "Future-proofed systemic definition",
+    "localizacao": "Marcela do Sul/PR",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Python",
+      "Scrum",
+      "React",
+      "UX Research"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Silva S.A.",
+        "cargo": "Global Implementation Administrador",
+        "inicio": "2025-05",
+        "fim": "2024-08",
+        "descricao": "Aliquid quaerat quia reprehenderit doloremque inventore aperiam tenetur voluptatibus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Saraiva-Nogueira University",
+        "ano": 2016
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified",
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Web3"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Elisa Franco",
+    "email": "Elisa.Franco@bol.com.br",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/42.jpg",
+    "cargo": "Principal Marca Coordenador",
+    "resumo": "Integrated explicit parallelism",
+    "localizacao": "Júlio César do Descoberto/TO",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "SQL",
+      "Terraform"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Adaptabilidade",
+      "Liderança Servidora"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Carvalho S.A.",
+        "cargo": "Central Mercados Orquestrador",
+        "inicio": "2024-04",
+        "fim": "2024-11",
+        "descricao": "Accusantium minus molestiae fugiat nostrum libero dolorem laudantium alias eveniet."
+      },
+      {
+        "empresa": "Albuquerque, Albuquerque e Martins",
+        "cargo": "Central Funcionalidade Facilitador",
+        "inicio": "2023-08",
+        "fim": "2024-06",
+        "descricao": "Excepturi nihil ad quod deleniti enim blanditiis."
+      },
+      {
+        "empresa": "Carvalho S.A.",
+        "cargo": "Chefe Usabilidade Consultor",
+        "inicio": "2024-04",
+        "fim": "2025-04",
+        "descricao": "A quia earum vitae inventore dolores voluptas illo molestias doloribus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Albuquerque, Albuquerque e Moreira University",
+        "ano": 2015
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Analytics Certified",
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Liz Barros",
+    "email": "Liz_Barros@gmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/15.jpg",
+    "cargo": "Senior Funcionalidade Atentende",
+    "resumo": "Immersive fault-tolerant methodology",
+    "localizacao": "Dalila do Sul/ES",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "UX Research",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Comunicação",
+      "Pensamento Crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Xavier, Macedo e Melo",
+        "cargo": "Cliente Marca Produtor",
+        "inicio": "2023-06",
+        "fim": "2025-07",
+        "descricao": "Vel atque alias harum alias neque dicta."
+      },
+      {
+        "empresa": "Batista EIRELI",
+        "cargo": "Interno Implementação Administrador",
+        "inicio": "2022-01",
+        "fim": "2025-09",
+        "descricao": "Alias cum perferendis labore laboriosam debitis eligendi possimus."
+      },
+      {
+        "empresa": "Nogueira LTDA",
+        "cargo": "Central Fatores Administrador",
+        "inicio": "2022-08",
+        "fim": "Atual",
+        "descricao": "Sint dicta mollitia perferendis natus ipsa consectetur pariatur eveniet."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Souza-Xavier University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "porro aspernatur alias",
+        "link": "https://ativo-gasto.net",
+        "descricao": "Pariatur quod eaque magni assumenda maxime."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Alexandre Costa",
+    "email": "Alexandre.Costa44@hotmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/62.jpg",
+    "cargo": "Avançar Grupo Executivo",
+    "resumo": "Sharable hybrid product",
+    "localizacao": "Bruna de Nossa Senhora/PE",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "UX Research",
+      "DevOps",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Gestão de Conflitos",
+      "Pensamento Crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Santos-Barros",
+        "cargo": "Futuro Identidade Técnico",
+        "inicio": "2025-10",
+        "fim": "2025-07",
+        "descricao": "Nostrum esse culpa quidem possimus."
+      },
+      {
+        "empresa": "Batista Comércio",
+        "cargo": "Central Web Designer",
+        "inicio": "2023-11",
+        "fim": "2025-04",
+        "descricao": "Maxime soluta qui."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Barros EIRELI University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Certified Scrum Master (CSM)",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA ética",
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Carlos Albuquerque",
+    "email": "Carlos.Albuquerque55@bol.com.br",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/62.jpg",
+    "cargo": "Nacional Pesquisar Associado",
+    "resumo": "Persevering empowering hub",
+    "localizacao": "Xavier do Norte/PA",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "DevOps",
+      "AWS",
+      "Figma",
+      "Node.js",
+      "Terraform"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Liderança Servidora",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Saraiva EIRELI",
+        "cargo": "Produto Otimização Diretor",
+        "inicio": "2021-05",
+        "fim": "Atual",
+        "descricao": "Corporis nobis culpa nisi."
+      },
+      {
+        "empresa": "Souza, Albuquerque e Saraiva",
+        "cargo": "Futuro Branding Associado",
+        "inicio": "2021-07",
+        "fim": "2025-06",
+        "descricao": "Quasi aut nisi sed."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Moraes, Barros e Batista University",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "praesentium alias adipisci",
+        "link": "https://furioso-oceano.biz",
+        "descricao": "Asperiores pariatur sapiente."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certified",
+      "ISTQB Foundation Level"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional",
+      "IA ética",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Heitor Silva",
+    "email": "Heitor.Silva85@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/51.jpg",
+    "cargo": "Direto Prestação de contas Diretor",
+    "resumo": "Customer-focused cohesive initiative",
+    "localizacao": "Batista do Descoberto/SC",
+    "area": "Data/IA",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Machine Learning",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança Servidora",
+      "Pensamento Crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Albuquerque-Santos",
+        "cargo": "Nacional Programa Produtor",
+        "inicio": "2023-09",
+        "fim": "Atual",
+        "descricao": "Accusamus in temporibus similique ab tempora possimus."
+      },
+      {
+        "empresa": "Pereira EIRELI",
+        "cargo": "Humano Identidade Estrategista",
+        "inicio": "2023-06",
+        "fim": "Atual",
+        "descricao": "Minima optio adipisci voluptates magnam officiis est voluptas ipsa maxime."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Carvalho, Batista e Melo University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "voluptate provident sunt",
+        "link": "https://relaxado-hashtag.org",
+        "descricao": "Aspernatur adipisci nam nostrum sequi."
+      },
+      {
+        "titulo": "debitis quo sit",
+        "link": "https://humano-congresso.name",
+        "descricao": "Necessitatibus alias deserunt."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Web3"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Giovanna Moreira",
+    "email": "Giovanna.Moreira@live.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/90.jpg",
+    "cargo": "Chefe Comunicações Policial",
+    "resumo": "Versatile AI-powered interface",
+    "localizacao": "Esther do Descoberto/MT",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "DevOps",
+      "Node.js",
+      "Python",
+      "Figma",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Pereira-Saraiva",
+        "cargo": "Corporativo Qualidade Gerente",
+        "inicio": "2024-06",
+        "fim": "Atual",
+        "descricao": "Eius odit occaecati dolore fugiat."
+      },
+      {
+        "empresa": "Moraes-Martins",
+        "cargo": "Chefe Mercados Diretor",
+        "inicio": "2020-12",
+        "fim": "2025-05",
+        "descricao": "Repellendus sed distinctio deleniti deleniti voluptate ab beatae inventore."
+      },
+      {
+        "empresa": "Saraiva-Xavier",
+        "cargo": "Central Intranet Supervisor",
+        "inicio": "2021-08",
+        "fim": "Atual",
+        "descricao": "Dicta debitis sint eveniet quas harum facilis eaque omnis distinctio."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Xavier, Xavier e Carvalho University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "voluptatem soluta eaque",
+        "link": "https://falso-hospital.biz/",
+        "descricao": "Esse quod aspernatur reprehenderit."
+      }
+    ],
+    "certificacoes": [
+      "Certified Scrum Master (CSM)",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "IA ética",
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Gustavo Barros",
+    "email": "Gustavo.Barros14@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/73.jpg",
+    "cargo": "Principal Marca Policial",
+    "resumo": "Implemented 24 hour paradigm",
+    "localizacao": "Pereira do Norte/CE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "UX Research",
+      "DevOps",
+      "Terraform",
+      "Node.js",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Moreira e Associados",
+        "cargo": "Avançar Mobilidade Diretor",
+        "inicio": "2025-11",
+        "fim": "2025-08",
+        "descricao": "Laudantium sequi voluptate."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Nogueira Comércio University",
+        "ano": 2015
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional",
+      "Educação Tech",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Lucas Souza",
+    "email": "Lucas_Souza@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/62.jpg",
+    "cargo": "Interno Mobilidade Associado",
+    "resumo": "Front-line executive core",
+    "localizacao": "Barros de Nossa Senhora/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Figma",
+      "Vue.js",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Silva Comércio",
+        "cargo": "Líder Prestação de contas Especialista",
+        "inicio": "2022-10",
+        "fim": "2024-07",
+        "descricao": "Facere magnam quo id optio rem est."
+      },
+      {
+        "empresa": "Moraes, Pereira e Costa",
+        "cargo": "Interno Mercados Produtor",
+        "inicio": "2021-09",
+        "fim": "Atual",
+        "descricao": "Quasi incidunt officiis eos neque exercitationem doloribus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Oliveira LTDA University",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "ab voluptatum molestiae",
+        "link": "https://seguro-mesa.br",
+        "descricao": "Omnis nam natus ratione harum veritatis impedit dolorem labore."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Ana Clara Moraes",
+    "email": "AnaClara_Moraes73@live.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/57.jpg",
+    "cargo": "Dinâmico Métricas Representante",
+    "resumo": "Team-oriented zero trust methodology",
+    "localizacao": "Suélen de Nossa Senhora/AP",
+    "area": "Data/IA",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "React",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Moreira S.A.",
+        "cargo": "Regional Mobilidade Planejador",
+        "inicio": "2022-07",
+        "fim": "Atual",
+        "descricao": "Repellat neque quia dolorem."
+      },
+      {
+        "empresa": "Braga, Carvalho e Moreira",
+        "cargo": "International Fatores Agente",
+        "inicio": "2023-04",
+        "fim": "2025-10",
+        "descricao": "Vel beatae asperiores voluptates exercitationem."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Costa S.A. University",
+        "ano": 2021
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Isabela Moreira",
+    "email": "Isabela_Moreira@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/29.jpg",
+    "cargo": "Líder Soluções Planejador",
+    "resumo": "Triple-buffered zero trust application",
+    "localizacao": "Costa do Descoberto/AC",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Scrum",
+      "Vue.js",
+      "DevOps"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Souza-Santos",
+        "cargo": "Corporativo Interações Executivo",
+        "inicio": "2021-10",
+        "fim": "2024-07",
+        "descricao": "Sint provident eveniet tenetur rem illum excepturi ex."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Pereira-Braga University",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "nulla est nihil",
+        "link": "https://inconsciente-pescoco.org/",
+        "descricao": "Dolores facere ut nostrum quod saepe enim odio."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Nicolas Moreira",
+    "email": "Nicolas_Moreira77@bol.com.br",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/63.jpg",
+    "cargo": "Líder Contas Representante",
+    "resumo": "Networked incremental encryption",
+    "localizacao": "Franco de Nossa Senhora/RO",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Terraform",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Adaptabilidade",
+      "Liderança Servidora"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Nogueira-Barros",
+        "cargo": "Chefe Pesquisar Estrategista",
+        "inicio": "2021-12",
+        "fim": "Atual",
+        "descricao": "Non saepe ipsa inventore magnam."
+      },
+      {
+        "empresa": "Batista, Moraes e Silva",
+        "cargo": "Nacional Implementation Designer",
+        "inicio": "2024-08",
+        "fim": "2025-04",
+        "descricao": "Iusto omnis placeat provident corporis."
+      },
+      {
+        "empresa": "Silva S.A.",
+        "cargo": "Central Diretivas Associado",
+        "inicio": "2021-11",
+        "fim": "2024-10",
+        "descricao": "Beatae corporis expedita recusandae a accusamus sunt."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Silva, Costa e Souza University",
+        "ano": 2024
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional",
+      "Web3",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Bruna Braga",
+    "email": "Bruna_Braga@live.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/50.jpg",
+    "cargo": "Investidor Segurança Executivo",
+    "resumo": "Cross-platform cloud-native attitude",
+    "localizacao": "Saraiva de Nossa Senhora/PB",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Figma",
+      "Scrum",
+      "Vue.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Liderança Servidora",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Pereira, Moreira e Barros",
+        "cargo": "Legado Operações Assistente",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Reiciendis tenetur minus aspernatur quis reiciendis magni maxime fuga."
+      },
+      {
+        "empresa": "Oliveira, Carvalho e Saraiva",
+        "cargo": "Cliente Implementação Arquiteto",
+        "inicio": "2025-05",
+        "fim": "2025-03",
+        "descricao": "Asperiores eligendi cum porro."
+      },
+      {
+        "empresa": "Moraes e Associados",
+        "cargo": "Interno Dados Atentende",
+        "inicio": "2023-12",
+        "fim": "Atual",
+        "descricao": "Magni nostrum deserunt quasi delectus natus tempora et."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Santos, Oliveira e Macedo University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Azure Data Scientist",
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Morgana Carvalho",
+    "email": "Morgana.Carvalho51@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/87.jpg",
+    "cargo": "Cliente Web Executivo",
+    "resumo": "Versatile eco-centric portal",
+    "localizacao": "Júlia do Sul/MS",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "DevOps",
+      "Vue.js",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Adaptabilidade",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo, Souza e Oliveira",
+        "cargo": "Legado Infraestrutura Designer",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Est incidunt quod praesentium."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Silva-Macedo University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "ISTQB Foundation Level"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Murilo Albuquerque",
+    "email": "Murilo.Albuquerque35@live.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/18.jpg",
+    "cargo": "Interno Prestação de contas Planejador",
+    "resumo": "Reverse-engineered zero defect monitoring",
+    "localizacao": "Carvalho do Norte/AP",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "UX Research",
+      "DevOps",
+      "Scrum",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Resiliência",
+      "Empatia",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Albuquerque-Reis",
+        "cargo": "Chefe Qualidade Especialista",
+        "inicio": "2023-01",
+        "fim": "2024-01",
+        "descricao": "Rem neque excepturi dolores pariatur eaque ipsam quae voluptatum reiciendis."
+      },
+      {
+        "empresa": "Franco-Carvalho",
+        "cargo": "Central Mobilidade Desenvolvedor",
+        "inicio": "2025-01",
+        "fim": "2025-08",
+        "descricao": "Quo fugiat amet in voluptatem."
+      },
+      {
+        "empresa": "Silva LTDA",
+        "cargo": "Distrito Marketing Produtor",
+        "inicio": "2021-07",
+        "fim": "Atual",
+        "descricao": "Dolores sunt iste eos cupiditate nobis quos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Moraes S.A. University",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "ipsam architecto architecto",
+        "link": "https://burro-pix.org",
+        "descricao": "Mollitia voluptatem exercitationem alias saepe."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certified",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cultura Organizacional",
+      "Web3"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Ígor Pereira",
+    "email": "Igor_Pereira73@live.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/99.jpg",
+    "cargo": "Futuro Implementation Diretor",
+    "resumo": "Cross-platform transitional projection",
+    "localizacao": "Maria Cecília do Descoberto/TO",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "Kanban",
+      "UX Research",
+      "Terraform",
+      "AWS"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Liderança Servidora",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Pereira, Nogueira e Silva",
+        "cargo": "Global Contas Atentende",
+        "inicio": "2024-01",
+        "fim": "2025-07",
+        "descricao": "Voluptas nobis distinctio laudantium nesciunt corporis qui."
+      },
+      {
+        "empresa": "Macedo, Carvalho e Carvalho",
+        "cargo": "Dinâmico Dados Estrategista",
+        "inicio": "2023-12",
+        "fim": "2025-09",
+        "descricao": "Repudiandae sequi natus ipsa."
+      },
+      {
+        "empresa": "Braga-Santos",
+        "cargo": "Chefe Grupo Agente",
+        "inicio": "2025-06",
+        "fim": "2025-03",
+        "descricao": "Molestias consectetur rerum fugit cumque adipisci nulla."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Costa Comércio University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "esse perferendis harum",
+        "link": "https://barato-juros.name/",
+        "descricao": "Numquam a fugiat ducimus soluta exercitationem illo tempora a quasi."
+      },
+      {
+        "titulo": "quia nihil esse",
+        "link": "https://liso-tigre.biz",
+        "descricao": "In facere expedita porro quidem possimus assumenda."
+      }
+    ],
+    "certificacoes": [
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Célia Franco",
+    "email": "Celia_Franco22@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/64.jpg",
+    "cargo": "Central Branding Analista",
+    "resumo": "Intuitive homogeneous complexity",
+    "localizacao": "Fabrícia de Nossa Senhora/DF",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Python",
+      "Scrum",
+      "Terraform",
+      "Figma",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Moreira-Moreira",
+        "cargo": "Futuro Operações Diretor",
+        "inicio": "2021-04",
+        "fim": "2025-05",
+        "descricao": "Tenetur alias eligendi vel aliquid."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Carvalho, Santos e Melo University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "sit explicabo quos",
+        "link": "https://honesto-imposto.name/",
+        "descricao": "Nobis labore odio laborum et dicta."
+      }
+    ],
+    "certificacoes": [
+      "Azure Data Scientist",
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Meire Barros",
+    "email": "Meire_Barros@yahoo.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/88.jpg",
+    "cargo": "Legado Resposta Consultor",
+    "resumo": "Optional holistic interface",
+    "localizacao": "Moreira de Nossa Senhora/RO",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "Kanban",
+      "Scrum",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Moreira, Saraiva e Barros",
+        "cargo": "Corporativo Operações Engenheiro",
+        "inicio": "2022-12",
+        "fim": "Atual",
+        "descricao": "Cum nulla aliquid."
+      },
+      {
+        "empresa": "Saraiva, Melo e Barros",
+        "cargo": "Interno Marketing Supervisor",
+        "inicio": "2025-05",
+        "fim": "2024-06",
+        "descricao": "Sequi unde eum ipsam cum voluptates ipsa."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Carvalho, Silva e Saraiva University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "ISTQB Foundation Level"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Manuela Martins",
+    "email": "Manuela_Martins45@bol.com.br",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/43.jpg",
+    "cargo": "Líder Mobilidade Associado",
+    "resumo": "Phased tangible interface",
+    "localizacao": "Xavier do Sul/AC",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "SQL",
+      "AWS",
+      "Machine Learning",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Saraiva-Oliveira",
+        "cargo": "Futuro Mobilidade Analista",
+        "inicio": "2025-07",
+        "fim": "2024-06",
+        "descricao": "Expedita atque debitis mollitia perspiciatis commodi."
+      },
+      {
+        "empresa": "Santos, Saraiva e Moreira",
+        "cargo": "Global Diretivas Diretor",
+        "inicio": "2024-09",
+        "fim": "Atual",
+        "descricao": "Illo eaque dicta nesciunt nesciunt odio commodi eum ipsam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Souza-Santos University",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "quo praesentium dolor",
+        "link": "https://energetico-neblina.biz",
+        "descricao": "Sapiente pariatur tempore distinctio vitae earum officiis dolorem hic laudantium."
+      }
+    ],
+    "certificacoes": [
+      "Azure Data Scientist",
+      "ISTQB Foundation Level"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Arthur Santos",
+    "email": "Arthur.Santos90@yahoo.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/14.jpg",
+    "cargo": "Central Programa Coordenador",
+    "resumo": "User-friendly methodical challenge",
+    "localizacao": "Franco do Sul/SC",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "Python",
+      "Kanban",
+      "Scrum",
+      "Terraform"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Resiliência",
+      "Liderança Servidora"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Albuquerque, Pereira e Barros",
+        "cargo": "Central Implementation Técnico",
+        "inicio": "2023-01",
+        "fim": "2024-10",
+        "descricao": "Minus odit voluptatem corporis eligendi mollitia architecto rerum quisquam doloribus."
+      },
+      {
+        "empresa": "Oliveira, Reis e Pereira",
+        "cargo": "Humano Qualidade Especialista",
+        "inicio": "2023-12",
+        "fim": "2025-06",
+        "descricao": "Laborum praesentium molestiae nam similique praesentium."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Saraiva, Reis e Silva University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Enzo Melo",
+    "email": "Enzo_Melo@hotmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/16.jpg",
+    "cargo": "Global Marca Executivo",
+    "resumo": "Networked needs-based generative AI",
+    "localizacao": "Eloá do Norte/PE",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Scrum",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Santos S.A.",
+        "cargo": "Nacional Táticas Técnico",
+        "inicio": "2022-12",
+        "fim": "Atual",
+        "descricao": "Nesciunt sint similique culpa nulla eos itaque molestias consectetur iusto."
+      },
+      {
+        "empresa": "Macedo-Souza",
+        "cargo": "International Mercados Desenvolvedor",
+        "inicio": "2024-03",
+        "fim": "2025-07",
+        "descricao": "Rerum quis odit eius odit iste."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Barros-Carvalho University",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "rem quas autem",
+        "link": "https://quieto-atmosfera.biz",
+        "descricao": "Excepturi aperiam sed."
+      },
+      {
+        "titulo": "perferendis minima eaque",
+        "link": "https://desorganizado-boleto.br",
+        "descricao": "Esse exercitationem harum enim ducimus nisi similique suscipit."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cultura Organizacional",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Ana Clara Braga",
+    "email": "AnaClara_Braga42@yahoo.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/36.jpg",
+    "cargo": "Direto Otimização Associado",
+    "resumo": "Reduced interactive protocol",
+    "localizacao": "Braga do Descoberto/ES",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "UX Research",
+      "Terraform",
+      "Python",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Liderança Servidora",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo-Xavier",
+        "cargo": "Corporativo Aplicações Associado",
+        "inicio": "2024-11",
+        "fim": "2025-01",
+        "descricao": "Debitis odit vitae nulla neque."
+      },
+      {
+        "empresa": "Barros-Moraes",
+        "cargo": "Produto Mobilidade Administrador",
+        "inicio": "2022-12",
+        "fim": "2025-05",
+        "descricao": "Alias reprehenderit maxime aut corrupti laudantium adipisci possimus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Santos-Oliveira University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "possimus unde ea",
+        "link": "https://claro-bombeiro.com",
+        "descricao": "Deserunt eligendi neque illum at quaerat ad quis nihil."
+      },
+      {
+        "titulo": "hic ea consectetur",
+        "link": "https://amargo-oculos.info",
+        "descricao": "Asperiores deleniti deserunt ut nisi laborum."
+      }
+    ],
+    "certificacoes": [
+      "ISTQB Foundation Level",
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Carlos Melo",
+    "email": "Carlos.Melo8@hotmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/72.jpg",
+    "cargo": "Chefe Otimização Representante",
+    "resumo": "Open-architected bifurcated hub",
+    "localizacao": "Raul do Descoberto/MS",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Node.js",
+      "UX Research",
+      "SQL",
+      "React"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Martins, Pereira e Barros",
+        "cargo": "Regional Fatores Diretor",
+        "inicio": "2025-05",
+        "fim": "2024-04",
+        "descricao": "Cumque totam quae ut sunt est saepe aliquam."
+      },
+      {
+        "empresa": "Santos-Franco",
+        "cargo": "Corporativo Resposta Arquiteto",
+        "inicio": "2025-08",
+        "fim": "Atual",
+        "descricao": "Cumque accusantium aut consequatur."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Moraes-Santos University",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "repellat doloribus sapiente",
+        "link": "https://rude-aeroporto.br",
+        "descricao": "Enim pariatur praesentium eligendi."
+      },
+      {
+        "titulo": "totam quisquam pariatur",
+        "link": "https://jovem-caderno.org/",
+        "descricao": "Doloremque numquam dolorum vitae."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified",
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Murilo Batista",
+    "email": "Murilo_Batista2@gmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/73.jpg",
+    "cargo": "Interno Segurança Analista",
+    "resumo": "Robust encompassing frame",
+    "localizacao": "César do Norte/PE",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "Figma",
+      "React"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Oliveira-Franco",
+        "cargo": "Cliente Pesquisar Analista",
+        "inicio": "2021-11",
+        "fim": "2024-08",
+        "descricao": "Laudantium fugiat in amet eius nobis libero possimus illum."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Saraiva-Barros University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "dolorum cumque debitis",
+        "link": "https://rapido-agenda.name/",
+        "descricao": "Quae deleniti architecto."
+      },
+      {
+        "titulo": "alias doloribus rem",
+        "link": "https://baixo-bombeiro.com",
+        "descricao": "Quo natus distinctio ipsum reprehenderit."
+      }
+    ],
+    "certificacoes": [
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional",
+      "Web3",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Henrique Costa",
+    "email": "Henrique.Costa3@live.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/87.jpg",
+    "cargo": "Produto Prestação de contas Designer",
+    "resumo": "Organic interactive circuit",
+    "localizacao": "Nicolas do Sul/MG",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Vue.js",
+      "Scrum",
+      "SQL"
+    ],
+    "softSkills": [
+      "Liderança Servidora",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Saraiva-Batista",
+        "cargo": "Corporativo Marketing Designer",
+        "inicio": "2023-04",
+        "fim": "Atual",
+        "descricao": "Possimus id rem hic reiciendis."
+      },
+      {
+        "empresa": "Silva, Martins e Melo",
+        "cargo": "Produto Prestação de contas Engenheiro",
+        "inicio": "2022-12",
+        "fim": "2024-01",
+        "descricao": "Optio dolore amet ipsam amet placeat sequi."
+      },
+      {
+        "empresa": "Reis, Albuquerque e Costa",
+        "cargo": "International Prestação de contas Assistente",
+        "inicio": "2020-12",
+        "fim": "Atual",
+        "descricao": "Ab facere maxime inventore maiores sapiente corrupti aspernatur quo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Silva, Macedo e Reis University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "corporis porro incidunt",
+        "link": "https://normal-cidade.name",
+        "descricao": "Quaerat dolorem ipsa excepturi velit blanditiis ipsam."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Breno Xavier",
+    "email": "Breno_Xavier@live.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/79.jpg",
+    "cargo": "Global Mobilidade Analista",
+    "resumo": "Future-proofed high-level hierarchy",
+    "localizacao": "Pereira do Descoberto/CE",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Kanban",
+      "Vue.js",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Saraiva-Melo",
+        "cargo": "Principal Aplicações Diretor",
+        "inicio": "2023-02",
+        "fim": "Atual",
+        "descricao": "Blanditiis adipisci dolore rerum omnis tempora adipisci reprehenderit sit consectetur."
+      },
+      {
+        "empresa": "Costa S.A.",
+        "cargo": "Produto Paradigma Atentende",
+        "inicio": "2024-08",
+        "fim": "Atual",
+        "descricao": "Cum illum numquam quo quibusdam culpa vero pariatur laudantium."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Moreira e Associados University",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Certified Scrum Master (CSM)",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cultura Organizacional",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Aline Braga",
+    "email": "Aline.Braga48@gmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/84.jpg",
+    "cargo": "Dinâmico Comunicações Facilitador",
+    "resumo": "Versatile empowering architecture",
+    "localizacao": "Félix do Descoberto/MA",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "DevOps",
+      "React",
+      "SQL",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Moreira, Moraes e Moraes",
+        "cargo": "Legado Paradigma Especialista",
+        "inicio": "2022-03",
+        "fim": "2025-08",
+        "descricao": "Doloribus ex id dolorum saepe delectus ratione fugit eligendi."
+      },
+      {
+        "empresa": "Barros, Carvalho e Carvalho",
+        "cargo": "Avançar Criativo Especialista",
+        "inicio": "2022-10",
+        "fim": "2024-02",
+        "descricao": "Illo dolorem reprehenderit."
+      },
+      {
+        "empresa": "Macedo LTDA",
+        "cargo": "Corporativo Mobilidade Orquestrador",
+        "inicio": "2022-02",
+        "fim": "Atual",
+        "descricao": "Quas fugit vero."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Batista LTDA University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "odio molestias numquam",
+        "link": "https://pequeno-armario.biz",
+        "descricao": "Iusto sint vero."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Natália Santos",
+    "email": "Natalia_Santos29@bol.com.br",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/45.jpg",
+    "cargo": "Cliente Fatores Diretor",
+    "resumo": "Grass-roots stable benchmark",
+    "localizacao": "Sílvia do Norte/PA",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Scrum",
+      "Terraform",
+      "SQL"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Santos, Costa e Nogueira",
+        "cargo": "Legado Configuration Diretor",
+        "inicio": "2024-01",
+        "fim": "Atual",
+        "descricao": "Dolorem illum quidem libero sunt dolorum asperiores."
+      },
+      {
+        "empresa": "Braga e Associados",
+        "cargo": "Interno Pesquisar Policial",
+        "inicio": "2024-10",
+        "fim": "Atual",
+        "descricao": "Aliquid optio ex quos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Souza, Reis e Costa University",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "quae pariatur harum",
+        "link": "https://anormal-galo.biz/",
+        "descricao": "Quod odit laudantium."
+      },
+      {
+        "titulo": "praesentium sint eaque",
+        "link": "https://baixo-policial.info/",
+        "descricao": "Ex exercitationem eveniet dolore at tempore earum."
+      }
+    ],
+    "certificacoes": [
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Arthur Martins",
+    "email": "Arthur_Martins@bol.com.br",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/43.jpg",
+    "cargo": "Líder Mercados Assistente",
+    "resumo": "Optional demand-driven emulation",
+    "localizacao": "Santos do Norte/PB",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "Vue.js",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Liderança Servidora",
+      "Pensamento Crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Saraiva-Silva",
+        "cargo": "Cliente Usabilidade Arquiteto",
+        "inicio": "2025-08",
+        "fim": "Atual",
+        "descricao": "Numquam tempora ex quisquam ullam eos quidem."
+      },
+      {
+        "empresa": "Xavier, Moreira e Carvalho",
+        "cargo": "Regional Assurance Arquiteto",
+        "inicio": "2023-09",
+        "fim": "2024-01",
+        "descricao": "Ut ipsa voluptatem quisquam voluptate ipsum est esse tempora."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Albuquerque, Albuquerque e Xavier University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "esse dignissimos ea",
+        "link": "https://burro-caderno.biz",
+        "descricao": "Temporibus consequuntur ab accusamus."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Carlos Costa",
+    "email": "Carlos_Costa@live.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/84.jpg",
+    "cargo": "Nacional Usabilidade Analista",
+    "resumo": "Horizontal real-time forecast",
+    "localizacao": "Pablo do Descoberto/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "SQL",
+      "Scrum",
+      "DevOps"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Saraiva, Santos e Batista",
+        "cargo": "Corporativo Mercados Executivo",
+        "inicio": "2022-06",
+        "fim": "Atual",
+        "descricao": "Possimus pariatur facilis est possimus minus."
+      },
+      {
+        "empresa": "Souza EIRELI",
+        "cargo": "Futuro Operações Analista",
+        "inicio": "2025-11",
+        "fim": "2024-11",
+        "descricao": "Ducimus perspiciatis illo laborum architecto facere sed soluta."
+      },
+      {
+        "empresa": "Moreira, Xavier e Pereira",
+        "cargo": "Global Mobilidade Orquestrador",
+        "inicio": "2024-12",
+        "fim": "Atual",
+        "descricao": "Eum optio cum repellendus mollitia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Xavier, Souza e Braga University",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "quibusdam possimus ea",
+        "link": "https://nervoso-bolo.br",
+        "descricao": "Provident iusto iusto excepturi tempora nulla tempora facilis."
+      }
+    ],
+    "certificacoes": [
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Antônio Nogueira",
+    "email": "Antonio_Nogueira@hotmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/63.jpg",
+    "cargo": "Direto Funcionalidade Diretor",
+    "resumo": "User-friendly logistical conglomeration",
+    "localizacao": "Benício do Descoberto/AM",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "UX Research",
+      "Node.js",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Souza-Oliveira",
+        "cargo": "Global Configuration Técnico",
+        "inicio": "2023-07",
+        "fim": "2024-05",
+        "descricao": "Cum aperiam voluptatibus esse."
+      },
+      {
+        "empresa": "Oliveira e Associados",
+        "cargo": "Investidor Resposta Gerente",
+        "inicio": "2022-07",
+        "fim": "Atual",
+        "descricao": "Provident dolorem iure."
+      },
+      {
+        "empresa": "Barros Comércio",
+        "cargo": "Regional Fatores Associado",
+        "inicio": "2023-08",
+        "fim": "2025-06",
+        "descricao": "Quibusdam quo fuga rerum repudiandae pariatur sunt voluptate harum quas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Reis-Moreira University",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "facilis pariatur illum",
+        "link": "https://complexo-gasto.br",
+        "descricao": "Minus repudiandae aperiam praesentium eum odio porro numquam dolorem."
+      },
+      {
+        "titulo": "ipsum aut accusamus",
+        "link": "https://cansado-ombro.biz",
+        "descricao": "Voluptas molestias perferendis dicta maxime."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "Sustentabilidade",
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Joaquim Oliveira",
+    "email": "Joaquim.Oliveira@yahoo.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/96.jpg",
+    "cargo": "Produto Fatores Especialista",
+    "resumo": "Profound AI-powered migration",
+    "localizacao": "Martins do Sul/AP",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "DevOps",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Xavier EIRELI",
+        "cargo": "Chefe Comunicações Engenheiro",
+        "inicio": "2022-02",
+        "fim": "Atual",
+        "descricao": "Animi cum temporibus est."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Silva-Pereira University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Fabrícia Souza",
+    "email": "Fabricia.Souza@live.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/15.jpg",
+    "cargo": "Central Aplicações Orquestrador",
+    "resumo": "Intuitive intangible structure",
+    "localizacao": "Melo do Norte/AM",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "Machine Learning",
+      "Kanban",
+      "AWS"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Resiliência",
+      "Liderança Servidora"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Xavier, Carvalho e Silva",
+        "cargo": "Dinâmico Intranet Facilitador",
+        "inicio": "2025-10",
+        "fim": "2024-12",
+        "descricao": "Iure possimus eum doloribus sequi omnis veniam."
+      },
+      {
+        "empresa": "Melo-Santos",
+        "cargo": "Humano Branding Produtor",
+        "inicio": "2024-05",
+        "fim": "2024-12",
+        "descricao": "Minus architecto magnam ullam suscipit temporibus placeat."
+      },
+      {
+        "empresa": "Albuquerque Comércio",
+        "cargo": "Direto Web Arquiteto",
+        "inicio": "2023-12",
+        "fim": "Atual",
+        "descricao": "Suscipit placeat accusantium hic magnam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Franco, Franco e Franco University",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "cumque quis quis",
+        "link": "https://molhado-senado.br/",
+        "descricao": "Tempore nemo culpa nam tenetur."
+      }
+    ],
+    "certificacoes": [
+      "Certified Scrum Master (CSM)",
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "Cultura Organizacional",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Alícia Oliveira",
+    "email": "Alicia_Oliveira31@bol.com.br",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/93.jpg",
+    "cargo": "Chefe Marca Orquestrador",
+    "resumo": "Robust encompassing neural-net",
+    "localizacao": "Reis do Sul/AP",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Python",
+      "SQL",
+      "DevOps"
+    ],
+    "softSkills": [
+      "Liderança Servidora",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Batista, Albuquerque e Barros",
+        "cargo": "Interno Identidade Técnico",
+        "inicio": "2021-03",
+        "fim": "Atual",
+        "descricao": "Id alias dolores neque."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Saraiva, Batista e Carvalho University",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "provident maiores rerum",
+        "link": "https://feio-rato.info",
+        "descricao": "Soluta cum officia."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "IA ética",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Margarida Batista",
+    "email": "Margarida_Batista@bol.com.br",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/10.jpg",
+    "cargo": "Corporativo Grupo Engenheiro",
+    "resumo": "Integrated interactive conglomeration",
+    "localizacao": "Braga do Norte/AP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Kanban",
+      "Terraform",
+      "SQL",
+      "Python"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Batista, Souza e Braga",
+        "cargo": "Dinâmico Prestação de contas Arquiteto",
+        "inicio": "2025-08",
+        "fim": "2024-02",
+        "descricao": "Quasi natus ipsum beatae nihil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Batista-Souza University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified",
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Márcia Costa",
+    "email": "Marcia_Costa3@hotmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/45.jpg",
+    "cargo": "Central Soluções Assistente",
+    "resumo": "Multi-tiered coherent core",
+    "localizacao": "Carvalho do Sul/RN",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Kanban",
+      "Node.js",
+      "Vue.js",
+      "UX Research"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Moraes EIRELI",
+        "cargo": "International Táticas Técnico",
+        "inicio": "2022-06",
+        "fim": "2024-09",
+        "descricao": "Unde soluta odit."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Saraiva EIRELI University",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "necessitatibus dolorum recusandae",
+        "link": "https://forte-entardecer.br/",
+        "descricao": "Soluta officia enim quisquam totam ipsum magnam ab."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certified",
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Isadora Oliveira",
+    "email": "Isadora.Oliveira54@live.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/55.jpg",
+    "cargo": "Investidor Dados Técnico",
+    "resumo": "Programmable incremental software",
+    "localizacao": "Matheus do Sul/SP",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "Kanban",
+      "Machine Learning",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Liderança Servidora",
+      "Resiliência",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Nogueira-Oliveira",
+        "cargo": "Cliente Qualidade Atentende",
+        "inicio": "2021-12",
+        "fim": "Atual",
+        "descricao": "Exercitationem repudiandae error maxime praesentium sed consequatur deserunt odio."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Moraes, Souza e Pereira University",
+        "ano": 2022
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Web3"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Sarah Barros",
+    "email": "Sarah.Barros@yahoo.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/97.jpg",
+    "cargo": "Produto Contas Representante",
+    "resumo": "Profit-focused radical website",
+    "localizacao": "Vitor do Norte/AM",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Vue.js",
+      "Scrum",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Gestão de Conflitos",
+      "Liderança Servidora"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Barros-Moreira",
+        "cargo": "Senior Branding Facilitador",
+        "inicio": "2022-09",
+        "fim": "Atual",
+        "descricao": "Sapiente voluptatibus quo fugiat voluptate voluptates fugiat vel repellat quidem."
+      },
+      {
+        "empresa": "Santos, Saraiva e Oliveira",
+        "cargo": "Dinâmico Marketing Executivo",
+        "inicio": "2024-06",
+        "fim": "2024-06",
+        "descricao": "Facilis sequi necessitatibus voluptatum quod sed quas iusto nihil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Braga, Macedo e Batista University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Matheus Macedo",
+    "email": "Matheus.Macedo@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/3.jpg",
+    "cargo": "Legado Intranet Engenheiro",
+    "resumo": "Reverse-engineered real-time artificial intelligence",
+    "localizacao": "Talita do Descoberto/AM",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "UX Research",
+      "Vue.js",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Xavier, Barros e Oliveira",
+        "cargo": "Produto Usabilidade Produtor",
+        "inicio": "2025-08",
+        "fim": "2024-04",
+        "descricao": "Fugit vitae porro ut quaerat consequatur iusto."
+      },
+      {
+        "empresa": "Saraiva-Macedo",
+        "cargo": "Interno Contas Designer",
+        "inicio": "2022-11",
+        "fim": "Atual",
+        "descricao": "Quisquam cum rem nemo."
+      },
+      {
+        "empresa": "Barros Comércio",
+        "cargo": "Chefe Configuration Executivo",
+        "inicio": "2024-12",
+        "fim": "2025-07",
+        "descricao": "Quasi ipsa eos sapiente non magni nisi et quasi maiores."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Moraes LTDA University",
+        "ano": 2021
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Sustentabilidade",
+      "Web3"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Rafael Silva",
+    "email": "Rafael_Silva@bol.com.br",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/52.jpg",
+    "cargo": "Investidor Divisão Associado",
+    "resumo": "Upgradable well-modulated firmware",
+    "localizacao": "Saraiva do Descoberto/PE",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Kanban",
+      "UX Research"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Reis LTDA",
+        "cargo": "Distrito Otimização Analista",
+        "inicio": "2021-01",
+        "fim": "2024-01",
+        "descricao": "Ipsa officiis architecto ducimus."
+      },
+      {
+        "empresa": "Costa, Santos e Oliveira",
+        "cargo": "Dinâmico Interações Facilitador",
+        "inicio": "2021-09",
+        "fim": "Atual",
+        "descricao": "Necessitatibus reprehenderit quia voluptates."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Barros, Macedo e Souza University",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "voluptatibus tempore nemo",
+        "link": "https://liso-granizo.br",
+        "descricao": "Corporis soluta dolorem iusto veritatis magni veniam placeat qui reiciendis."
+      },
+      {
+        "titulo": "laborum alias maxime",
+        "link": "https://colorido-uber.info",
+        "descricao": "Debitis ullam tempora."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Educação Tech",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Fabrícia Barros",
+    "email": "Fabricia_Barros97@hotmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/78.jpg",
+    "cargo": "Futuro Métricas Analista",
+    "resumo": "Fully-configurable impactful methodology",
+    "localizacao": "Roberta do Norte/PI",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Node.js",
+      "UX Research",
+      "DevOps",
+      "Python"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Adaptabilidade",
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Barros EIRELI",
+        "cargo": "Produto Marca Policial",
+        "inicio": "2024-07",
+        "fim": "Atual",
+        "descricao": "Cumque veritatis voluptatibus temporibus inventore quis eaque debitis iusto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Albuquerque, Reis e Xavier University",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "quasi laboriosam illum",
+        "link": "https://barato-estante.net/",
+        "descricao": "Beatae eligendi culpa hic reiciendis."
+      },
+      {
+        "titulo": "aut amet esse",
+        "link": "https://complexo-atmosfera.net",
+        "descricao": "Incidunt nostrum reprehenderit repudiandae ab dolore iure consequuntur nobis."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified",
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Henrique Souza",
+    "email": "Henrique.Souza9@live.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/8.jpg",
+    "cargo": "Cliente Criativo Associado",
+    "resumo": "Realigned content-based implementation",
+    "localizacao": "Melo do Norte/TO",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Node.js",
+      "SQL",
+      "Machine Learning",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Liderança Servidora",
+      "Pensamento Crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Costa e Associados",
+        "cargo": "Principal Marca Desenvolvedor",
+        "inicio": "2021-02",
+        "fim": "2025-02",
+        "descricao": "Asperiores temporibus error adipisci occaecati eum."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Braga, Reis e Martins University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Sophia Nogueira",
+    "email": "Sophia_Nogueira@yahoo.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/49.jpg",
+    "cargo": "Futuro Programa Orquestrador",
+    "resumo": "Future-proofed hybrid portal",
+    "localizacao": "Franco do Norte/RJ",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "UX Research",
+      "SQL",
+      "Figma"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Liderança Servidora",
+      "Empatia",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Albuquerque S.A.",
+        "cargo": "Cliente Soluções Engenheiro",
+        "inicio": "2023-04",
+        "fim": "Atual",
+        "descricao": "Officiis quas nesciunt tempora illo eveniet alias quae praesentium odio."
+      },
+      {
+        "empresa": "Silva-Xavier",
+        "cargo": "Principal Marca Consultor",
+        "inicio": "2025-10",
+        "fim": "2024-08",
+        "descricao": "Minus magnam doloremque iusto tenetur corrupti dolores adipisci quos accusantium."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Moraes EIRELI University",
+        "ano": 2024
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Web3",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Mércia Albuquerque",
+    "email": "Mercia.Albuquerque@hotmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/3.jpg",
+    "cargo": "Avançar Táticas Supervisor",
+    "resumo": "Customizable neutral structure",
+    "localizacao": "Daniel do Sul/RJ",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Vue.js",
+      "SQL",
+      "Node.js",
+      "Figma"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Resiliência",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Moreira, Braga e Moraes",
+        "cargo": "Produto Contas Facilitador",
+        "inicio": "2022-09",
+        "fim": "2025-05",
+        "descricao": "Dolor possimus nostrum."
+      },
+      {
+        "empresa": "Santos, Melo e Albuquerque",
+        "cargo": "Líder Contas Orquestrador",
+        "inicio": "2023-06",
+        "fim": "Atual",
+        "descricao": "Sit non numquam nam tenetur."
+      },
+      {
+        "empresa": "Santos-Moreira",
+        "cargo": "Nacional Táticas Supervisor",
+        "inicio": "2023-06",
+        "fim": "2024-11",
+        "descricao": "Eveniet deleniti possimus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Reis, Oliveira e Batista University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Azure Data Scientist",
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Ana Clara Moraes",
+    "email": "AnaClara.Moraes3@yahoo.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/60.jpg",
+    "cargo": "Central Interações Facilitador",
+    "resumo": "Fully-configurable user-facing complexity",
+    "localizacao": "Moraes do Descoberto/RN",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Scrum",
+      "Kanban",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Liderança Servidora",
+      "Pensamento Crítico",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Oliveira-Santos",
+        "cargo": "Distrito Marketing Analista",
+        "inicio": "2023-08",
+        "fim": "2025-03",
+        "descricao": "Aperiam eum facere."
+      },
+      {
+        "empresa": "Franco LTDA",
+        "cargo": "Regional Identidade Supervisor",
+        "inicio": "2023-02",
+        "fim": "Atual",
+        "descricao": "Officia nulla vitae occaecati accusantium nemo inventore quidem minus ipsa."
+      },
+      {
+        "empresa": "Carvalho, Moreira e Santos",
+        "cargo": "Cliente Divisão Engenheiro",
+        "inicio": "2025-11",
+        "fim": "Atual",
+        "descricao": "Iusto tempore quos error iste omnis id odio inventore laboriosam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Santos Comércio University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "sunt reiciendis id",
+        "link": "https://baixo-sopa.net/",
+        "descricao": "Voluptatibus beatae atque fugiat neque quo aut."
+      },
+      {
+        "titulo": "quia aut nam",
+        "link": "https://normal-trem.info/",
+        "descricao": "Tempora expedita soluta id pariatur velit officiis."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA ética",
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 61,
+    "nome": "Heitor Reis",
+    "email": "Heitor_Reis@gmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/33.jpg",
+    "cargo": "Futuro Otimização Estrategista",
+    "resumo": "Sustainable stable service-desk",
+    "localizacao": "Maria Cecília do Descoberto/RS",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "DevOps",
+      "Kanban",
+      "Vue.js",
+      "UX Research",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Liderança Servidora"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Reis-Costa",
+        "cargo": "Legado Funcionalidade Consultor",
+        "inicio": "2025-01",
+        "fim": "Atual",
+        "descricao": "Laboriosam quisquam dolorem consectetur."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Costa, Oliveira e Xavier University",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "doloremque consectetur nulla",
+        "link": "https://artistico-eleicao.br/",
+        "descricao": "Fuga blanditiis accusamus ad sequi aliquid."
+      },
+      {
+        "titulo": "libero dolores officiis",
+        "link": "https://feliz-uber.com/",
+        "descricao": "Fuga magnam earum minus placeat dignissimos reprehenderit dolore at quasi."
+      }
+    ],
+    "certificacoes": [
+      "ISTQB Foundation Level"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 62,
+    "nome": "Salvador Martins",
+    "email": "Salvador_Martins@yahoo.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/75.jpg",
+    "cargo": "Futuro Métricas Desenvolvedor",
+    "resumo": "Exclusive leading edge conglomeration",
+    "localizacao": "Alessandra do Sul/MS",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Python",
+      "AWS",
+      "Scrum"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Gestão de Conflitos",
+      "Liderança Servidora",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Franco-Santos",
+        "cargo": "International Mercados Coordenador",
+        "inicio": "2021-01",
+        "fim": "2025-07",
+        "descricao": "Reiciendis maxime nisi ratione."
+      },
+      {
+        "empresa": "Saraiva LTDA",
+        "cargo": "International Métricas Atentende",
+        "inicio": "2021-01",
+        "fim": "Atual",
+        "descricao": "Repellat deserunt ratione."
+      },
+      {
+        "empresa": "Pereira S.A.",
+        "cargo": "Chefe Táticas Gerente",
+        "inicio": "2024-08",
+        "fim": "Atual",
+        "descricao": "Ducimus sint neque dignissimos consequatur iusto asperiores."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Costa e Associados University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "optio laborum officiis",
+        "link": "https://vazio-juros.name",
+        "descricao": "Quod incidunt provident occaecati odit voluptas."
+      },
+      {
+        "titulo": "dolores rerum rerum",
+        "link": "https://flexivel-braco.name/",
+        "descricao": "Provident tempora inventore reiciendis eos recusandae quo."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética"
+    ]
+  },
+  {
+    "id": 63,
+    "nome": "Marcela Batista",
+    "email": "Marcela_Batista84@gmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/18.jpg",
+    "cargo": "International Otimização Planejador",
+    "resumo": "Customizable systemic framework",
+    "localizacao": "Nicolas do Descoberto/AL",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "UX Research",
+      "React",
+      "Figma"
+    ],
+    "softSkills": [
+      "Liderança Servidora",
+      "Gestão de Conflitos",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Costa LTDA",
+        "cargo": "Chefe Identidade Analista",
+        "inicio": "2025-04",
+        "fim": "Atual",
+        "descricao": "Atque autem non tempore labore temporibus reiciendis dolorem."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Moraes-Pereira University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Web3"
+    ]
+  },
+  {
+    "id": 64,
+    "nome": "Gael Moraes",
+    "email": "Gael_Moraes@hotmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/49.jpg",
+    "cargo": "Global Comunicações Executivo",
+    "resumo": "Balanced optimal product",
+    "localizacao": "Janaína de Nossa Senhora/TO",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "SQL",
+      "DevOps",
+      "Kanban",
+      "Terraform"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança Servidora",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Braga Comércio",
+        "cargo": "Líder Otimização Atentende",
+        "inicio": "2025-01",
+        "fim": "2024-07",
+        "descricao": "Eaque placeat facilis totam vel quidem exercitationem in animi deserunt."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Pereira-Batista University",
+        "ano": 2024
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 65,
+    "nome": "Maitê Moreira",
+    "email": "Maite_Moreira56@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/28.jpg",
+    "cargo": "Cliente Marketing Designer",
+    "resumo": "Configurable homogeneous data-warehouse",
+    "localizacao": "Vitor do Sul/RJ",
+    "area": "Data/IA",
+    "habilidadesTecnicas": [
+      "Kanban",
+      "DevOps",
+      "SQL"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Pereira, Souza e Saraiva",
+        "cargo": "Central Paradigma Agente",
+        "inicio": "2024-03",
+        "fim": "2024-04",
+        "descricao": "Deleniti omnis occaecati placeat dolores repudiandae quidem dignissimos."
+      },
+      {
+        "empresa": "Carvalho, Silva e Souza",
+        "cargo": "Cliente Operações Especialista",
+        "inicio": "2022-08",
+        "fim": "2025-05",
+        "descricao": "Sapiente ratione tenetur omnis maxime repudiandae fugit neque quia."
+      },
+      {
+        "empresa": "Nogueira-Costa",
+        "cargo": "Humano Assurance Estrategista",
+        "inicio": "2024-05",
+        "fim": "2024-09",
+        "descricao": "Eligendi incidunt praesentium et tempore cum placeat aliquid est."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Reis Comércio University",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "distinctio dolorum aut",
+        "link": "https://duro-crianca.com/",
+        "descricao": "Totam adipisci iure consequatur blanditiis ducimus."
+      },
+      {
+        "titulo": "deleniti occaecati quis",
+        "link": "https://amargo-poder.info",
+        "descricao": "Sapiente voluptatibus hic exercitationem impedit expedita sunt laudantium quas."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Web3"
+    ]
+  },
+  {
+    "id": 66,
+    "nome": "Murilo Xavier",
+    "email": "Murilo_Xavier37@yahoo.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/92.jpg",
+    "cargo": "Dinâmico Identidade Designer",
+    "resumo": "Multi-tiered real-time process improvement",
+    "localizacao": "Enzo Gabriel do Sul/RN",
+    "area": "Data/IA",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "UX Research",
+      "AWS"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Barros-Macedo",
+        "cargo": "Líder Comunicações Analista",
+        "inicio": "2021-01",
+        "fim": "2025-01",
+        "descricao": "Quas officia architecto ipsum incidunt repellat minima tempore impedit mollitia."
+      },
+      {
+        "empresa": "Braga Comércio",
+        "cargo": "Produto Fatores Diretor",
+        "inicio": "2020-12",
+        "fim": "Atual",
+        "descricao": "Quis quia doloribus ullam consectetur."
+      },
+      {
+        "empresa": "Nogueira S.A.",
+        "cargo": "Global Criativo Analista",
+        "inicio": "2025-04",
+        "fim": "2024-12",
+        "descricao": "Alias voluptatum sunt eum et nihil porro explicabo hic."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Silva, Martins e Xavier University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 67,
+    "nome": "Sara Braga",
+    "email": "Sara.Braga@hotmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/71.jpg",
+    "cargo": "Central Soluções Técnico",
+    "resumo": "Virtual tertiary hierarchy",
+    "localizacao": "Isabella do Norte/SE",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "Terraform",
+      "React",
+      "AWS",
+      "UX Research"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação",
+      "Gestão de Conflitos",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Braga EIRELI",
+        "cargo": "Interno Programa Planejador",
+        "inicio": "2022-07",
+        "fim": "2025-03",
+        "descricao": "Ab consequatur blanditiis maxime iure autem aspernatur blanditiis amet adipisci."
+      },
+      {
+        "empresa": "Xavier, Souza e Carvalho",
+        "cargo": "Interno Operações Estrategista",
+        "inicio": "2024-03",
+        "fim": "Atual",
+        "descricao": "Ipsum soluta rerum iusto rem quia rem."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Braga LTDA University",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "ISTQB Foundation Level",
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 68,
+    "nome": "Meire Silva",
+    "email": "Meire.Silva@yahoo.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/97.jpg",
+    "cargo": "Global Identidade Produtor",
+    "resumo": "Intuitive homogeneous firmware",
+    "localizacao": "Enzo do Sul/CE",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "Figma",
+      "UX Research",
+      "Kanban",
+      "SQL",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança Servidora",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Silva-Pereira",
+        "cargo": "Chefe Configuration Técnico",
+        "inicio": "2022-12",
+        "fim": "Atual",
+        "descricao": "Excepturi nam natus."
+      },
+      {
+        "empresa": "Carvalho-Costa",
+        "cargo": "Interno Branding Engenheiro",
+        "inicio": "2023-05",
+        "fim": "2025-05",
+        "descricao": "Minus distinctio dolore quidem nobis iusto."
+      },
+      {
+        "empresa": "Santos, Nogueira e Silva",
+        "cargo": "Principal Implementação Policial",
+        "inicio": "2023-11",
+        "fim": "2025-03",
+        "descricao": "Repudiandae eius omnis commodi libero nam sunt distinctio."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Braga e Associados University",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "animi impedit est",
+        "link": "https://bom-virus.org/",
+        "descricao": "Iste laborum occaecati amet adipisci expedita quaerat."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certified",
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 69,
+    "nome": "Ana Clara Moreira",
+    "email": "AnaClara_Moreira@hotmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/60.jpg",
+    "cargo": "Humano Prestação de contas Representante",
+    "resumo": "Organized system-worthy conglomeration",
+    "localizacao": "Ofélia do Norte/AC",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "DevOps",
+      "Kanban",
+      "React"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Gestão de Conflitos",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo-Costa",
+        "cargo": "Produto Configuration Associado",
+        "inicio": "2023-03",
+        "fim": "2024-09",
+        "descricao": "Optio itaque hic animi deserunt deserunt a."
+      },
+      {
+        "empresa": "Franco EIRELI",
+        "cargo": "Investidor Táticas Produtor",
+        "inicio": "2025-04",
+        "fim": "Atual",
+        "descricao": "Debitis sunt eius veritatis pariatur reiciendis."
+      },
+      {
+        "empresa": "Carvalho, Souza e Nogueira",
+        "cargo": "Regional Contas Analista",
+        "inicio": "2023-07",
+        "fim": "Atual",
+        "descricao": "Ex et similique necessitatibus aliquam laboriosam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Santos Comércio University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "tenetur saepe pariatur",
+        "link": "https://rude-irmao.net",
+        "descricao": "Nemo sapiente aliquam reprehenderit."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 70,
+    "nome": "Pedro Henrique Melo",
+    "email": "PedroHenrique_Melo31@live.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/55.jpg",
+    "cargo": "Futuro Dados Consultor",
+    "resumo": "Digitized immersive structure",
+    "localizacao": "Melo do Sul/PB",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "AWS",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Comunicação",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Reis Comércio",
+        "cargo": "International Táticas Policial",
+        "inicio": "2021-06",
+        "fim": "2023-12",
+        "descricao": "Provident enim repellendus quam repellendus excepturi repellat."
+      },
+      {
+        "empresa": "Pereira e Associados",
+        "cargo": "Humano Marketing Consultor",
+        "inicio": "2023-07",
+        "fim": "2024-05",
+        "descricao": "Veritatis hic nesciunt explicabo beatae nostrum ullam ex laboriosam quam."
+      },
+      {
+        "empresa": "Melo-Franco",
+        "cargo": "Líder Mobilidade Analista",
+        "inicio": "2025-02",
+        "fim": "Atual",
+        "descricao": "Error dolor voluptates delectus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Nogueira, Macedo e Batista University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Azure Data Scientist",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "Web3",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 71,
+    "nome": "Isaac Reis",
+    "email": "Isaac_Reis@gmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/61.jpg",
+    "cargo": "Corporativo Otimização Administrador",
+    "resumo": "Streamlined real-time system engine",
+    "localizacao": "Franco de Nossa Senhora/BA",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "UX Research",
+      "Scrum",
+      "Terraform",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Liderança Servidora",
+      "Pensamento Crítico",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Pereira-Pereira",
+        "cargo": "Direto Identidade Associado",
+        "inicio": "2025-07",
+        "fim": "Atual",
+        "descricao": "Molestiae optio qui similique praesentium porro exercitationem hic natus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Martins, Saraiva e Saraiva University",
+        "ano": 2015
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional",
+      "Web3"
+    ]
+  },
+  {
+    "id": 72,
+    "nome": "Heitor Braga",
+    "email": "Heitor_Braga21@hotmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/8.jpg",
+    "cargo": "Interno Dados Atentende",
+    "resumo": "Upgradable transitional flexibility",
+    "localizacao": "Oliveira do Norte/PR",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Scrum",
+      "Node.js",
+      "DevOps"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Empatia",
+      "Liderança Servidora",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Saraiva, Albuquerque e Albuquerque",
+        "cargo": "Corporativo Assurance Desenvolvedor",
+        "inicio": "2021-08",
+        "fim": "2025-05",
+        "descricao": "Deserunt assumenda aliquid sit totam accusamus."
+      },
+      {
+        "empresa": "Franco, Macedo e Batista",
+        "cargo": "Líder Dados Atentende",
+        "inicio": "2022-11",
+        "fim": "Atual",
+        "descricao": "Inventore consequatur porro."
+      },
+      {
+        "empresa": "Melo Comércio",
+        "cargo": "Distrito Táticas Coordenador",
+        "inicio": "2025-01",
+        "fim": "2024-09",
+        "descricao": "Quis autem labore tenetur ab nihil id animi."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Franco-Albuquerque University",
+        "ano": 2021
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "IA ética",
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 73,
+    "nome": "Maria Luiza Xavier",
+    "email": "MariaLuiza_Xavier55@gmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/84.jpg",
+    "cargo": "Global Contas Designer",
+    "resumo": "Horizontal uniform complexity",
+    "localizacao": "Xavier do Norte/PE",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Scrum",
+      "Node.js",
+      "UX Research"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Resiliência",
+      "Liderança Servidora"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Oliveira-Albuquerque",
+        "cargo": "Humano Pesquisar Consultor",
+        "inicio": "2022-02",
+        "fim": "Atual",
+        "descricao": "Rem incidunt fugit quasi cumque soluta placeat cum."
+      },
+      {
+        "empresa": "Albuquerque, Xavier e Pereira",
+        "cargo": "Cliente Fatores Planejador",
+        "inicio": "2023-10",
+        "fim": "2024-04",
+        "descricao": "Porro sunt ipsa fugiat quisquam commodi dolore."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Souza EIRELI University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Azure Data Scientist",
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cultura Organizacional",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 74,
+    "nome": "Lavínia Nogueira",
+    "email": "Lavinia.Nogueira8@yahoo.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/6.jpg",
+    "cargo": "Regional Assurance Executivo",
+    "resumo": "Front-line intermediate open architecture",
+    "localizacao": "Macedo de Nossa Senhora/PR",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "DevOps",
+      "Vue.js",
+      "Machine Learning",
+      "SQL",
+      "Figma"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Moraes-Moraes",
+        "cargo": "Global Interações Planejador",
+        "inicio": "2022-01",
+        "fim": "2024-04",
+        "descricao": "Quos quae id laboriosam error at quod placeat."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Oliveira, Saraiva e Macedo University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "unde aspernatur doloribus",
+        "link": "https://salgado-pato.biz",
+        "descricao": "Porro nostrum asperiores rem quos omnis."
+      },
+      {
+        "titulo": "soluta animi dolor",
+        "link": "https://medroso-hashtag.biz",
+        "descricao": "At asperiores modi sint nobis aspernatur magni quibusdam."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional",
+      "IA ética",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 75,
+    "nome": "João Oliveira",
+    "email": "Joao_Oliveira@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/41.jpg",
+    "cargo": "Cliente Mobilidade Agente",
+    "resumo": "Exclusive responsive synergy",
+    "localizacao": "Albuquerque do Norte/ES",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "Figma",
+      "React",
+      "Machine Learning",
+      "Python",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Souza-Moraes",
+        "cargo": "Senior Configuration Policial",
+        "inicio": "2022-09",
+        "fim": "Atual",
+        "descricao": "Molestias voluptas provident facere repellat debitis repudiandae accusamus voluptate recusandae."
+      },
+      {
+        "empresa": "Xavier e Associados",
+        "cargo": "Produto Intranet Desenvolvedor",
+        "inicio": "2023-08",
+        "fim": "Atual",
+        "descricao": "Sed ipsam quo error rem dicta corrupti ipsum quod."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Nogueira-Macedo University",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "itaque itaque corrupti",
+        "link": "https://feio-lencol.name/",
+        "descricao": "Amet ipsa ratione quam nulla."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação Tech",
+      "Web3"
+    ]
+  },
+  {
+    "id": 76,
+    "nome": "Joaquim Santos",
+    "email": "Joaquim_Santos@gmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/36.jpg",
+    "cargo": "Senior Web Orquestrador",
+    "resumo": "Reverse-engineered heuristic pricing structure",
+    "localizacao": "Yago do Descoberto/BA",
+    "area": "Data/IA",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "DevOps",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Franco-Souza",
+        "cargo": "Distrito Web Representante",
+        "inicio": "2022-07",
+        "fim": "Atual",
+        "descricao": "Consectetur illo hic velit."
+      },
+      {
+        "empresa": "Costa LTDA",
+        "cargo": "Principal Marca Agente",
+        "inicio": "2024-10",
+        "fim": "2024-08",
+        "descricao": "A illum in quas placeat natus."
+      },
+      {
+        "empresa": "Oliveira Comércio",
+        "cargo": "Nacional Prestação de contas Especialista",
+        "inicio": "2021-12",
+        "fim": "Atual",
+        "descricao": "Ex odit veniam vel nam fugit numquam facilis eum."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Souza-Oliveira University",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 77,
+    "nome": "Calebe Barros",
+    "email": "Calebe.Barros74@hotmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/8.jpg",
+    "cargo": "Global Marketing Agente",
+    "resumo": "Decentralized context-sensitive approach",
+    "localizacao": "Nogueira do Norte/RO",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Python",
+      "DevOps"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Liderança Servidora",
+      "Comunicação",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Martins, Xavier e Franco",
+        "cargo": "Interno Dados Consultor",
+        "inicio": "2023-03",
+        "fim": "2024-09",
+        "descricao": "Necessitatibus perspiciatis omnis consectetur rem nihil vero."
+      },
+      {
+        "empresa": "Reis EIRELI",
+        "cargo": "Investidor Interações Especialista",
+        "inicio": "2025-09",
+        "fim": "Atual",
+        "descricao": "Fuga iste nemo hic autem rerum odit."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Xavier Comércio University",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "eaque quidem et",
+        "link": "https://gasoso-unha.info/",
+        "descricao": "Quia pariatur laborum consequatur non exercitationem incidunt nulla occaecati."
+      },
+      {
+        "titulo": "exercitationem optio ut",
+        "link": "https://rigido-mar.biz/",
+        "descricao": "Deleniti est voluptatibus."
+      }
+    ],
+    "certificacoes": [
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 78,
+    "nome": "Isaac Moraes",
+    "email": "Isaac_Moraes78@yahoo.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/72.jpg",
+    "cargo": "Direto Implementation Designer",
+    "resumo": "Organic bottom-line support",
+    "localizacao": "Moraes do Descoberto/TO",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "React",
+      "Figma"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo-Silva",
+        "cargo": "Produto Branding Coordenador",
+        "inicio": "2020-12",
+        "fim": "Atual",
+        "descricao": "Rem nobis adipisci est deleniti vero reprehenderit nam consequatur."
+      },
+      {
+        "empresa": "Moraes e Associados",
+        "cargo": "Central Diretivas Analista",
+        "inicio": "2024-12",
+        "fim": "Atual",
+        "descricao": "Minus hic assumenda qui."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Reis-Souza University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "nisi iusto illo",
+        "link": "https://complexo-loja.com",
+        "descricao": "Ex itaque sapiente."
+      },
+      {
+        "titulo": "deleniti rem dolor",
+        "link": "https://musical-padaria.info",
+        "descricao": "Et corporis qui inventore."
+      }
+    ],
+    "certificacoes": [
+      "ISTQB Foundation Level"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 79,
+    "nome": "Lucca Franco",
+    "email": "Lucca_Franco85@live.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/0.jpg",
+    "cargo": "Dinâmico Métricas Designer",
+    "resumo": "Decentralized dedicated application",
+    "localizacao": "Braga do Norte/MG",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "UX Research",
+      "Machine Learning",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo LTDA",
+        "cargo": "Senior Soluções Administrador",
+        "inicio": "2022-12",
+        "fim": "Atual",
+        "descricao": "Possimus sunt tempora occaecati ullam iste quas."
+      },
+      {
+        "empresa": "Martins EIRELI",
+        "cargo": "Produto Marca Planejador",
+        "inicio": "2025-04",
+        "fim": "Atual",
+        "descricao": "Fugiat incidunt nam quisquam iusto cum ipsum quisquam velit."
+      },
+      {
+        "empresa": "Braga-Macedo",
+        "cargo": "Central Criativo Representante",
+        "inicio": "2021-12",
+        "fim": "Atual",
+        "descricao": "Hic sint maxime."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Barros S.A. University",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "perspiciatis est quia",
+        "link": "https://brilhante-interruptor.name/",
+        "descricao": "Non sequi dolor reiciendis dolore voluptas expedita dignissimos."
+      },
+      {
+        "titulo": "voluptatum voluptas dolorum",
+        "link": "https://consciente-tarde.net/",
+        "descricao": "Non ad tempora."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 80,
+    "nome": "Kléber Batista",
+    "email": "Kleber_Batista61@hotmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/0.jpg",
+    "cargo": "Regional Métricas Representante",
+    "resumo": "Total coherent local area network",
+    "localizacao": "Maria Júlia do Norte/AP",
+    "area": "Data/IA",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Terraform",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Gestão de Conflitos",
+      "Liderança Servidora",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Santos-Albuquerque",
+        "cargo": "Chefe Divisão Executivo",
+        "inicio": "2023-10",
+        "fim": "2024-08",
+        "descricao": "Minus nobis inventore impedit pariatur saepe voluptate inventore nam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Barros-Reis University",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "amet odit hic",
+        "link": "https://belo-calca.name",
+        "descricao": "Cumque nulla sed ipsa officiis quos adipisci doloribus laboriosam."
+      }
+    ],
+    "certificacoes": [
+      "Azure Data Scientist",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Educação Tech",
+      "Web3"
+    ]
+  },
+  {
+    "id": 81,
+    "nome": "Lucas Martins",
+    "email": "Lucas_Martins@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/73.jpg",
+    "cargo": "Nacional Prestação de contas Policial",
+    "resumo": "User-centric reciprocal concept",
+    "localizacao": "Maria Cecília do Sul/MT",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "UX Research",
+      "React",
+      "Python",
+      "Terraform",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Liderança Servidora",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Reis Comércio",
+        "cargo": "Global Web Designer",
+        "inicio": "2021-06",
+        "fim": "Atual",
+        "descricao": "Eos iure nesciunt optio doloremque nostrum."
+      },
+      {
+        "empresa": "Souza-Souza",
+        "cargo": "Cliente Web Supervisor",
+        "inicio": "2021-07",
+        "fim": "2024-06",
+        "descricao": "Quis quia eum architecto est beatae."
+      },
+      {
+        "empresa": "Martins-Oliveira",
+        "cargo": "Líder Intranet Executivo",
+        "inicio": "2023-07",
+        "fim": "Atual",
+        "descricao": "Modi inventore culpa aliquid explicabo placeat atque nemo magni labore."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Xavier e Associados University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 82,
+    "nome": "Helena Nogueira",
+    "email": "Helena.Nogueira@bol.com.br",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/8.jpg",
+    "cargo": "Global Marca Representante",
+    "resumo": "Reduced value-added system engine",
+    "localizacao": "Saraiva do Sul/ES",
+    "area": "Design/UX",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Kanban",
+      "Vue.js",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Albuquerque, Costa e Pereira",
+        "cargo": "Interno Usabilidade Orquestrador",
+        "inicio": "2022-11",
+        "fim": "Atual",
+        "descricao": "Consequuntur ab nesciunt dolorem et ipsa nihil nihil quos."
+      },
+      {
+        "empresa": "Santos, Oliveira e Batista",
+        "cargo": "Legado Dados Designer",
+        "inicio": "2022-11",
+        "fim": "2024-11",
+        "descricao": "Quam exercitationem quos quis dolores et ea aut."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Albuquerque EIRELI University",
+        "ano": 2016
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "IA ética",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 83,
+    "nome": "Júlia Barros",
+    "email": "Julia_Barros68@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/4.jpg",
+    "cargo": "Nacional Comunicações Analista",
+    "resumo": "Distributed actuating success",
+    "localizacao": "Pereira de Nossa Senhora/RO",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "SQL",
+      "Figma",
+      "DevOps"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento Crítico",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Pereira-Saraiva",
+        "cargo": "Legado Segurança Consultor",
+        "inicio": "2023-09",
+        "fim": "Atual",
+        "descricao": "Ex quibusdam praesentium sunt ut eos quod aut repellat soluta."
+      },
+      {
+        "empresa": "Souza Comércio",
+        "cargo": "Dinâmico Intranet Policial",
+        "inicio": "2023-08",
+        "fim": "2024-04",
+        "descricao": "Soluta neque accusamus nisi in."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Batista LTDA University",
+        "ano": 2017
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 84,
+    "nome": "Valentina Moreira",
+    "email": "Valentina.Moreira82@yahoo.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/77.jpg",
+    "cargo": "Global Identidade Especialista",
+    "resumo": "Quality-focused optimal attitude",
+    "localizacao": "Nogueira de Nossa Senhora/AL",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "AWS",
+      "UX Research"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança Servidora",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo, Costa e Pereira",
+        "cargo": "Direto Usabilidade Agente",
+        "inicio": "2024-07",
+        "fim": "Atual",
+        "descricao": "Aliquam nesciunt eum necessitatibus."
+      },
+      {
+        "empresa": "Barros, Braga e Costa",
+        "cargo": "Principal Funcionalidade Designer",
+        "inicio": "2023-10",
+        "fim": "Atual",
+        "descricao": "Eveniet at quas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Nogueira-Reis University",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "error ad quae",
+        "link": "https://relaxado-pe.br",
+        "descricao": "Eum maxime voluptate saepe."
+      }
+    ],
+    "certificacoes": [
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 85,
+    "nome": "Marcela Batista",
+    "email": "Marcela_Batista@hotmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/96.jpg",
+    "cargo": "Central Assurance Associado",
+    "resumo": "Public-key clear-thinking hardware",
+    "localizacao": "Barros de Nossa Senhora/RR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "AWS",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Pensamento Crítico",
+      "Liderança Servidora",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Moreira, Nogueira e Macedo",
+        "cargo": "Senior Prestação de contas Facilitador",
+        "inicio": "2024-07",
+        "fim": "Atual",
+        "descricao": "Ullam quibusdam cupiditate rem veritatis enim maiores."
+      },
+      {
+        "empresa": "Silva, Martins e Silva",
+        "cargo": "Distrito Implementation Atentende",
+        "inicio": "2022-05",
+        "fim": "2024-08",
+        "descricao": "Incidunt natus amet ut magnam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Moreira e Associados University",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "illum alias eos",
+        "link": "https://curioso-atmosfera.info",
+        "descricao": "Suscipit incidunt sunt pariatur consequatur laborum veniam vel sequi."
+      }
+    ],
+    "certificacoes": [
+      "ISTQB Foundation Level",
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 86,
+    "nome": "Enzo Gabriel Souza",
+    "email": "EnzoGabriel.Souza32@bol.com.br",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/11.jpg",
+    "cargo": "Líder Interações Supervisor",
+    "resumo": "Streamlined homogeneous neural-net",
+    "localizacao": "Franco do Sul/ES",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "Python",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Reis, Oliveira e Carvalho",
+        "cargo": "Direto Pesquisar Desenvolvedor",
+        "inicio": "2025-04",
+        "fim": "2025-10",
+        "descricao": "Natus quas iure nihil ad debitis."
+      },
+      {
+        "empresa": "Silva, Barros e Franco",
+        "cargo": "Distrito Programa Arquiteto",
+        "inicio": "2024-06",
+        "fim": "Atual",
+        "descricao": "Explicabo quisquam numquam sit earum porro recusandae."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Albuquerque-Pereira University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "cum fugiat dolorem",
+        "link": "https://aspero-montanha.name",
+        "descricao": "Non repudiandae suscipit cum tempore quasi sequi."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 87,
+    "nome": "Clara Albuquerque",
+    "email": "Clara.Albuquerque@yahoo.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/59.jpg",
+    "cargo": "Global Implementation Supervisor",
+    "resumo": "Intuitive interactive orchestration",
+    "localizacao": "Franco do Descoberto/PA",
+    "area": "Data/IA",
+    "habilidadesTecnicas": [
+      "React",
+      "Python",
+      "DevOps",
+      "AWS",
+      "Figma"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Costa, Carvalho e Martins",
+        "cargo": "Humano Fatores Especialista",
+        "inicio": "2021-08",
+        "fim": "Atual",
+        "descricao": "Molestiae odit ratione vero."
+      },
+      {
+        "empresa": "Macedo, Nogueira e Santos",
+        "cargo": "Global Configuration Especialista",
+        "inicio": "2023-10",
+        "fim": "2025-05",
+        "descricao": "Illum ad cumque vel quos repellat."
+      },
+      {
+        "empresa": "Batista, Franco e Saraiva",
+        "cargo": "Interno Soluções Engenheiro",
+        "inicio": "2021-06",
+        "fim": "2025-09",
+        "descricao": "Ullam porro neque numquam quam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Albuquerque-Moraes University",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética"
+    ]
+  },
+  {
+    "id": 88,
+    "nome": "Gustavo Macedo",
+    "email": "Gustavo_Macedo78@live.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/41.jpg",
+    "cargo": "Principal Soluções Agente",
+    "resumo": "Diverse secondary concept",
+    "localizacao": "Lorraine do Sul/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "Machine Learning",
+      "React"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Barros, Martins e Reis",
+        "cargo": "Futuro Táticas Executivo",
+        "inicio": "2020-12",
+        "fim": "2024-08",
+        "descricao": "Exercitationem ratione optio rem nemo illum facere."
+      },
+      {
+        "empresa": "Xavier-Franco",
+        "cargo": "Avançar Mobilidade Arquiteto",
+        "inicio": "2024-09",
+        "fim": "Atual",
+        "descricao": "Hic quas enim."
+      },
+      {
+        "empresa": "Albuquerque LTDA",
+        "cargo": "International Pesquisar Desenvolvedor",
+        "inicio": "2022-05",
+        "fim": "Atual",
+        "descricao": "Quibusdam repudiandae labore."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Moreira S.A. University",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "dignissimos accusamus quo",
+        "link": "https://ansioso-aluno.info",
+        "descricao": "Vitae nulla deserunt dolorem consectetur tempore adipisci et blanditiis."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certified",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 89,
+    "nome": "Isabella Costa",
+    "email": "Isabella.Costa74@hotmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/75.jpg",
+    "cargo": "Investidor Marca Policial",
+    "resumo": "Implemented coherent microservice",
+    "localizacao": "Júlio César do Descoberto/BA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "SQL",
+      "Node.js",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança Servidora",
+      "Adaptabilidade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Costa, Moreira e Costa",
+        "cargo": "Cliente Mercados Consultor",
+        "inicio": "2023-12",
+        "fim": "2024-08",
+        "descricao": "Laudantium doloremque est."
+      },
+      {
+        "empresa": "Xavier-Franco",
+        "cargo": "Líder Implementação Supervisor",
+        "inicio": "2021-02",
+        "fim": "2025-09",
+        "descricao": "Saepe quae illum alias officia deleniti totam accusantium magni magnam."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Carvalho, Martins e Melo University",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "illo quis neque",
+        "link": "https://rigido-trem.net/",
+        "descricao": "Veritatis sapiente sunt quia vitae quae molestias suscipit fuga excepturi."
+      }
+    ],
+    "certificacoes": [
+      "ISTQB Foundation Level",
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Educação Tech",
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 90,
+    "nome": "Lorena Melo",
+    "email": "Lorena_Melo41@bol.com.br",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/69.jpg",
+    "cargo": "Regional Assurance Arquiteto",
+    "resumo": "Customizable local instruction set",
+    "localizacao": "Fabrício de Nossa Senhora/MG",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Node.js",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança Servidora"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Xavier LTDA",
+        "cargo": "Produto Métricas Facilitador",
+        "inicio": "2022-05",
+        "fim": "Atual",
+        "descricao": "Deserunt nobis nam similique porro quasi minus aliquid eos."
+      },
+      {
+        "empresa": "Silva, Martins e Oliveira",
+        "cargo": "Líder Otimização Técnico",
+        "inicio": "2021-04",
+        "fim": "Atual",
+        "descricao": "Iste hic autem."
+      },
+      {
+        "empresa": "Braga LTDA",
+        "cargo": "Senior Web Planejador",
+        "inicio": "2022-09",
+        "fim": "Atual",
+        "descricao": "Ratione magnam ab non."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Souza, Oliveira e Souza University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "optio nesciunt atque",
+        "link": "https://transparente-skate.name/",
+        "descricao": "Ipsa molestiae fugit mollitia laudantium esse qui ipsum."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Educação Tech",
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 91,
+    "nome": "Guilherme Moreira",
+    "email": "Guilherme.Moreira@yahoo.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/128/54.jpg",
+    "cargo": "Principal Paradigma Associado",
+    "resumo": "User-friendly modular structure",
+    "localizacao": "Murilo de Nossa Senhora/AC",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "Python",
+      "Figma",
+      "Vue.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Adaptabilidade",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo EIRELI",
+        "cargo": "Investidor Divisão Administrador",
+        "inicio": "2021-10",
+        "fim": "Atual",
+        "descricao": "Nesciunt nostrum sed illo ullam sequi soluta voluptatem."
+      },
+      {
+        "empresa": "Santos EIRELI",
+        "cargo": "Regional Usabilidade Estrategista",
+        "inicio": "2025-09",
+        "fim": "2024-11",
+        "descricao": "Veniam porro officia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Melo, Souza e Saraiva University",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "consequuntur quisquam excepturi",
+        "link": "https://opaco-computador.br",
+        "descricao": "Temporibus magnam quis delectus."
+      },
+      {
+        "titulo": "corporis nesciunt quam",
+        "link": "https://livre-senado.net/",
+        "descricao": "Illum quam repellendus corporis esse esse rerum debitis perspiciatis."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 92,
+    "nome": "Joaquim Martins",
+    "email": "Joaquim_Martins@bol.com.br",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/55.jpg",
+    "cargo": "Investidor Mercados Administrador",
+    "resumo": "Customer-focused directional functionalities",
+    "localizacao": "Tertuliano do Sul/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "Terraform",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Franco-Santos",
+        "cargo": "Corporativo Resposta Representante",
+        "inicio": "2025-04",
+        "fim": "2024-07",
+        "descricao": "Deserunt totam harum vitae libero."
+      },
+      {
+        "empresa": "Martins S.A.",
+        "cargo": "Direto Mercados Desenvolvedor",
+        "inicio": "2021-01",
+        "fim": "Atual",
+        "descricao": "Accusamus culpa fuga assumenda tempora."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Souza, Albuquerque e Barros University",
+        "ano": 2016
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "Azure Data Scientist",
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cultura Organizacional",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 93,
+    "nome": "Sophia Reis",
+    "email": "Sophia.Reis@live.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/85.jpg",
+    "cargo": "Global Grupo Planejador",
+    "resumo": "Self-enabling maximized neural-net",
+    "localizacao": "Moreira do Sul/DF",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "Machine Learning",
+      "DevOps",
+      "React"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Macedo-Franco",
+        "cargo": "Corporativo Branding Administrador",
+        "inicio": "2023-12",
+        "fim": "Atual",
+        "descricao": "Amet mollitia nostrum."
+      },
+      {
+        "empresa": "Costa, Saraiva e Silva",
+        "cargo": "Senior Fatores Técnico",
+        "inicio": "2021-09",
+        "fim": "Atual",
+        "descricao": "Velit mollitia itaque."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Costa Comércio University",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "tempora possimus in",
+        "link": "https://lento-mar.info",
+        "descricao": "Quia ducimus dolores."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certified",
+      "Certified Scrum Master (CSM)"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Sustentabilidade",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 94,
+    "nome": "Marcos Pereira",
+    "email": "Marcos.Pereira0@live.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/77.jpg",
+    "cargo": "Distrito Métricas Especialista",
+    "resumo": "Managed encompassing middleware",
+    "localizacao": "Liz do Sul/PI",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "Terraform",
+      "DevOps",
+      "AWS",
+      "Figma",
+      "UX Research"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Gestão de Conflitos",
+      "Empatia",
+      "Liderança Servidora"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Franco e Associados",
+        "cargo": "Regional Assurance Executivo",
+        "inicio": "2025-07",
+        "fim": "Atual",
+        "descricao": "Ipsum rerum dicta consequatur iusto corrupti laudantium quam vel possimus."
+      },
+      {
+        "empresa": "Franco, Xavier e Carvalho",
+        "cargo": "Cliente Funcionalidade Agente",
+        "inicio": "2022-09",
+        "fim": "2024-08",
+        "descricao": "Facilis voluptatibus dicta provident error occaecati maxime doloribus."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Liderança",
+        "instituicao": "Braga S.A. University",
+        "ano": 2018
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech",
+      "Sustentabilidade",
+      "Web3"
+    ]
+  },
+  {
+    "id": 95,
+    "nome": "Nataniel Pereira",
+    "email": "Nataniel.Pereira64@yahoo.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/36.jpg",
+    "cargo": "Avançar Web Engenheiro",
+    "resumo": "Adaptive logistical forecast",
+    "localizacao": "Lucca do Descoberto/MS",
+    "area": "Data/IA",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "UX Research",
+      "Python",
+      "React",
+      "Machine Learning"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Moraes EIRELI",
+        "cargo": "Chefe Soluções Desenvolvedor",
+        "inicio": "2022-12",
+        "fim": "Atual",
+        "descricao": "Odit assumenda eligendi veritatis eos."
+      },
+      {
+        "empresa": "Reis Comércio",
+        "cargo": "Principal Métricas Especialista",
+        "inicio": "2024-07",
+        "fim": "Atual",
+        "descricao": "Officiis exercitationem sequi corrupti maiores tempora eius."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Gestão",
+        "instituicao": "Franco-Moreira University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "aut pariatur a",
+        "link": "https://aspero-chave.org",
+        "descricao": "Rem occaecati iure iste maxime blanditiis asperiores modi totam."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified",
+      "Azure Data Scientist"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Web3",
+      "Educação Tech",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 96,
+    "nome": "Yuri Braga",
+    "email": "Yuri_Braga78@yahoo.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/90.jpg",
+    "cargo": "Distrito Grupo Agente",
+    "resumo": "Horizontal disintermediate synergy",
+    "localizacao": "Fabrícia de Nossa Senhora/ES",
+    "area": "Gestão/Agile",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "Figma",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Gestão de Conflitos"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Souza-Costa",
+        "cargo": "Líder Infraestrutura Facilitador",
+        "inicio": "2022-04",
+        "fim": "Atual",
+        "descricao": "Eum voluptatem libero quam eveniet vel."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise de Sistemas",
+        "instituicao": "Pereira-Macedo University",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "veniam harum asperiores",
+        "link": "https://vazio-inimigo.br",
+        "descricao": "Impedit nisi quia laudantium facilis odio repudiandae."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Cultura Organizacional",
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 97,
+    "nome": "Lara Moreira",
+    "email": "Lara.Moreira5@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/25.jpg",
+    "cargo": "Produto Marketing Administrador",
+    "resumo": "Adaptive fresh-thinking time-frame",
+    "localizacao": "Albuquerque do Descoberto/DF",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "DevOps",
+      "Python",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança Servidora",
+      "Comunicação",
+      "Gestão de Conflitos",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Melo Comércio",
+        "cargo": "Cliente Paradigma Desenvolvedor",
+        "inicio": "2025-02",
+        "fim": "Atual",
+        "descricao": "Dolorum laborum eum aliquam corporis dolor natus."
+      },
+      {
+        "empresa": "Pereira Comércio",
+        "cargo": "Legado Aplicações Consultor",
+        "inicio": "2023-05",
+        "fim": "2024-01",
+        "descricao": "Nihil iusto soluta."
+      },
+      {
+        "empresa": "Costa S.A.",
+        "cargo": "Corporativo Implementation Desenvolvedor",
+        "inicio": "2025-06",
+        "fim": "2023-12",
+        "descricao": "Optio libero neque molestias distinctio ducimus praesentium repudiandae quaerat ipsum."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Silva, Franco e Moraes University",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "inventore commodi earum",
+        "link": "https://rico-poder.biz",
+        "descricao": "Aperiam deserunt nihil dolorem quo."
+      },
+      {
+        "titulo": "mollitia officiis dolorem",
+        "link": "https://fosco-aniversario.com/",
+        "descricao": "Provident tempore expedita deleniti dignissimos quidem molestiae."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional"
+    ]
+  },
+  {
+    "id": 98,
+    "nome": "Daniel Braga",
+    "email": "Daniel.Braga17@gmail.com",
+    "sex": "Feminino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/72.jpg",
+    "cargo": "Legado Contas Designer",
+    "resumo": "Profit-focused tangible firmware",
+    "localizacao": "Macedo do Sul/PA",
+    "area": "Data/IA",
+    "habilidadesTecnicas": [
+      "React",
+      "DevOps",
+      "Terraform",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança Servidora",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Nogueira-Barros",
+        "cargo": "Regional Diretivas Técnico",
+        "inicio": "2022-04",
+        "fim": "2024-11",
+        "descricao": "Maiores explicabo perferendis cupiditate atque expedita autem."
+      },
+      {
+        "empresa": "Martins, Santos e Oliveira",
+        "cargo": "Futuro Interações Policial",
+        "inicio": "2021-01",
+        "fim": "Atual",
+        "descricao": "Vel quas voluptas numquam quam a harum animi repudiandae."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Carvalho, Batista e Moreira University",
+        "ano": 2015
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [
+      "AWS Certified",
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Web3"
+    ]
+  },
+  {
+    "id": 99,
+    "nome": "Talita Franco",
+    "email": "Talita_Franco@gmail.com",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/74.jpg",
+    "cargo": "Produto Dados Supervisor",
+    "resumo": "Quality-focused responsive capacity",
+    "localizacao": "Pedro Henrique de Nossa Senhora/AP",
+    "area": "Fintech/Blockchain",
+    "habilidadesTecnicas": [
+      "Scrum",
+      "DevOps",
+      "Figma",
+      "Kanban"
+    ],
+    "softSkills": [
+      "Gestão de Conflitos",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Carvalho S.A.",
+        "cargo": "Interno Grupo Desenvolvedor",
+        "inicio": "2023-05",
+        "fim": "2025-09",
+        "descricao": "Vel suscipit earum maiores at earum neque."
+      },
+      {
+        "empresa": "Costa, Santos e Xavier",
+        "cargo": "International Implementação Desenvolvedor",
+        "inicio": "2022-08",
+        "fim": "2025-08",
+        "descricao": "Voluptatum aliquid recusandae possimus eaque vero deserunt quisquam perspiciatis iste."
+      },
+      {
+        "empresa": "Batista LTDA",
+        "cargo": "Líder Implementação Arquiteto",
+        "inicio": "2024-04",
+        "fim": "2024-12",
+        "descricao": "Totam odio harum ex ipsam hic aspernatur."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em TI",
+        "instituicao": "Moraes, Xavier e Martins University",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "fugiat veritatis sunt",
+        "link": "https://burro-copo.info/",
+        "descricao": "Dolorum temporibus facere quidem commodi optio."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certified"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Educação Tech"
+    ]
+  },
+  {
+    "id": 100,
+    "nome": "Alessandro Reis",
+    "email": "Alessandro_Reis@bol.com.br",
+    "sex": "Masculino",
+    "foto": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/128/23.jpg",
+    "cargo": "International Prestação de contas Atentende",
+    "resumo": "Extended local time-frame",
+    "localizacao": "Santos de Nossa Senhora/MA",
+    "area": "Sustentabilidade/ESG",
+    "habilidadesTecnicas": [
+      "DevOps",
+      "Node.js",
+      "Scrum",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Adaptabilidade",
+      "Gestão de Conflitos",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Nogueira, Xavier e Carvalho",
+        "cargo": "Cliente Otimização Atentende",
+        "inicio": "2021-02",
+        "fim": "Atual",
+        "descricao": "Eligendi culpa reiciendis."
+      },
+      {
+        "empresa": "Martins, Nogueira e Santos",
+        "cargo": "Senior Infraestrutura Consultor",
+        "inicio": "2025-11",
+        "fim": "2025-04",
+        "descricao": "Rerum ducimus error delectus iusto nulla tempora."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "BSc Ciência da Computação",
+        "instituicao": "Martins, Reis e Xavier University",
+        "ano": 2020
+      }
+    ],
+    "projetos": [],
+    "certificacoes": [],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Cultura Organizacional"
+    ]
+  }
+]
