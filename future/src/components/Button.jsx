@@ -14,6 +14,7 @@ const Button = ({
 
   const colorVariants = {
     black: `bg-black text-white border border-transparent hover:bg-white hover:text-black hover:border-black hover:ring-2 hover:ring-black ${disabled ? 'opacity-50' : ''}`,
+    transparent: `bg-black text-white border border-transparent hover:bg-transparent hover:text-white hover:border-black hover:ring-2 hover:ring-black ${disabled ? 'opacity-50' : ''}`,
     primary: `${getTokenClasses(designTokens.colors.primary[500], 'bg')} 
               hover:${getTokenClasses(designTokens.colors.primary[600], 'bg')} 
               text-white ${disabled ? 'opacity-50' : ''}`,

@@ -12,7 +12,7 @@ export default function Layout() {
   return (
     <div className="min-h-screen flex flex-col">
       <Header>
-        <Button onClick={() => setOpenLogin(true)} variant='black'>Login</Button>
+        <Button onClick={() => setOpenLogin(true)} variant='black' className='text-xl transition-all duration-500'>Login</Button>
       </Header>
       <LoginForm
           isOpen={openLogin}
@@ -30,7 +30,7 @@ export default function Layout() {
             setOpenLogin(true);
           }}
         />
-      <main className="pt-16 flex-1">
+      <main className=" flex-1">
         <Outlet />
       </main>
       <Footer />

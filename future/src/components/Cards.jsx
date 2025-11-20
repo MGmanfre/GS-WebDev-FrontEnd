@@ -28,17 +28,17 @@ const Card = ({
   return (
     <div className={cardClasses} {...props}>
       {header && (
-        <div className="px-6 py-4 border-b border-gray-100">
+        <div className="px-6 py-4 flex items-center justify-center">
           {header}
         </div>
       )}
       
-      <div className="p-6">
+      <div className="px-6 py-4 text-xl font-semibold text-white text-center flex items-center justify-center">
         {children}
       </div>
       
       {footer && (
-        <div className="px-6 py-4 bg-gray-50 border-t border-gray-100">
+        <div className="px-6 py-4 mb-2 text-md text-gray-300 text-center">
           {footer}
         </div>
       )}
