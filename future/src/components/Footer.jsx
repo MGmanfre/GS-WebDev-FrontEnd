@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { SiInstagram } from "react-icons/si";
 import { BsTwitterX } from "react-icons/bs";
+import { FaLinkedin } from "react-icons/fa";
 import footerLogo from "../assets/img/logos/footerLogo.png";
 
 
@@ -26,8 +27,9 @@ export default function Footer() {
                     <div className="bg-zinc-700 shadow-black rounded-2xl flex flex-col items-center p-4 w-full md:w-72">
                         <h4 className="text-2xl font-bold text-white mb-4">Redes Sociais</h4>
                         <ul className="flex flex-col items-center gap-2 justify-center space-x-4 text-2xl">
-                            <li><a href="#" className="hover:text-black transition-colors duration-200 flex flex-row gap-1 items-center"><SiInstagram/>Instagram</a></li>
-                            <li><a href="#" className="hover:text-black transition-colors duration-200 flex flex-row gap-1 items-center"><BsTwitterX/>Twitter</a></li>
+                            <li><a href="#" className="hover:text-black transition-colors duration-200 flex flex-row gap-1 justify-center items-center"><SiInstagram/>Instagram</a></li>
+                            <li><a href="#" className="hover:text-black transition-colors duration-200 flex flex-row gap-1 justify-center items-center"><BsTwitterX/>Twitter</a></li>
+                            <li><a href="#" className="hover:text-black transition-colors duration-200 flex flex-row gap-1 justify-center items-center"><FaLinkedin/>LinkedIn</a></li>
                         </ul>
                     </div>
                 </div>

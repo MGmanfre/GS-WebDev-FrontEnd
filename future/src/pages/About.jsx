@@ -67,7 +67,7 @@ const dataTeamCards = [
     role: 'Designer UX/UI',
     description: 'Designer focado em experiências intuitivas e elegantes, criando interfaces que encantam e resolvem problemas reais dos usuários.',
     avatar: joao,
-    gradient: 'from-red-500 to-blue-400',
+    gradient: 'from-blue-900 to-blue-400',
   },
   {
     name: 'Vitor Pallis',

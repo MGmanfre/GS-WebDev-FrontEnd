@@ -17,8 +17,11 @@ export default function Header({ children }) {
             <Link to="/about" className="text-xl text-white hover:text-black transition-colors duration-200">
               Sobre
             </Link>
-            <Link to="/about" className="text-xl text-white hover:text-black transition-colors duration-200">
+            <Link to="/contact" className="text-xl text-white hover:text-black transition-colors duration-200">
               Contato
+            </Link>
+            <Link to="/dashboard" className="text-xl text-white hover:text-black transition-colors duration-200">
+                DashBoard
             </Link>
             {children}
           </nav>
