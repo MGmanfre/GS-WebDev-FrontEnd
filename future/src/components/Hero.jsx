@@ -1,11 +1,9 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
-import Button from '@/components/Button' // seu Button existente (ou use <button>)
 
 export default function Hero({
-  title = "O Futuro do Trabalho Começa Aqui",
-  subtitle = "Conectando pessoas, competências e propósito através da tecnologia",
-  text = "Uma plataforma que transforma relações profissionais e promove um futuro mais justo, inclusivo e sustentável",
+  title,
+  subtitle,
+  text,
   children
 }) {
   return (
