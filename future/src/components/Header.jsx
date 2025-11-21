@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import ThemeToggle from "./ThemeToggle";
-import logo from "../assets/img/logo.jpg";
+import logo from "../assets/img/logos/logo.jpg";
 
 export default function Header({ children }) {
   return (

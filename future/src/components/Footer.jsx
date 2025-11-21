@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { SiInstagram } from "react-icons/si";
 import { BsTwitterX } from "react-icons/bs";
-import footerLogo from "../assets/img/footerLogo.png";
+import footerLogo from "../assets/img/logos/footerLogo.png";
 
 
 export default function Footer() {
