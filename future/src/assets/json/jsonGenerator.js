@@ -2,31 +2,96 @@ import { fakerPT_BR as faker } from '@faker-js/faker';
 import * as fs from 'fs';
 
 const NUM_PROFILES = 100;
-const AREAS = ['Desenvolvimento', 'Design/UX', 'Data/IA', 'Gestão/Agile', 'Sustentabilidade/ESG', 'Fintech/Blockchain'];
-const HARD_SKILLS = ['React', 'Node.js', 'Python', 'Figma', 'AWS', 'SQL', 'Scrum', 'Kanban', 'Terraform', 'Vue.js', 'Machine Learning', 'UX Research', 'DevOps'];
+const AREAS = [
+  'Desenvolvimento',
+  'Design/UX',
+  'Data/IA',
+  'Gestão/Agile',
+  'Sustentabilidade/ESG',
+  'Fintech/Blockchain',
+  'Infraestrutura/DevOps',
+  'Qualidade/QA',
+  'Segurança da Informação',
+  'Mobile',
+  'Business Intelligence/Analytics',
+  'Produto',
+  'Marketing Digital',
+  'Vendas/BDR',
+  'Recursos Humanos/Talentos',
+  'Pesquisa & Desenvolvimento',
+  'Internet das Coisas (IoT)',
+  'Realidade Aumentada/Virtual (AR/VR)',
+  'Hardware/Embarcados',
+  'Legal/Compliance'
+];
+const HARD_SKILLS = [
+  'React',
+  'Node.js',
+  'Python',
+  'TypeScript',
+  'Java',
+  'C#',
+  'Go',
+  'Figma',
+  'AWS',
+  'Azure',
+  'GCP',
+  'Docker',
+  'Kubernetes',
+  'SQL',
+  'PostgreSQL',
+  'MongoDB',
+  'Redis',
+  'GraphQL',
+  'REST APIs',
+  'Scrum',
+  'Kanban',
+  'CI/CD',
+  'Terraform',
+  'Jest',
+  'Cypress',
+  'Selenium',
+  'Vue.js',
+  'Next.js',
+  'NestJS',
+  'Express',
+  'Machine Learning',
+  'TensorFlow',
+  'PyTorch',
+  'Spark',
+  'Kafka',
+  'UX Research',
+  'DevOps',
+  'Tailwind CSS',
+  'Sass',
+  'HTML',
+  'CSS',
+  'Accessibility'
+];
 const SOFT_SKILLS = ['Comunicação', 'Resiliência', 'Liderança Servidora', 'Empatia', 'Pensamento Crítico', 'Adaptabilidade', 'Gestão de Conflitos'];
 const CERTIFICATIONS = ['AWS Certified', 'Certified Scrum Master (CSM)', 'Google Analytics Certified', 'ISTQB Foundation Level', 'Azure Data Scientist'];
 
 function createProfessional(id) {
-  const firstName = faker.person.firstName();
-  const lastName = faker.person.lastName();
   const area = faker.helpers.arrayElement(AREAS);
   const sex = faker.person.sex();
+  const sexStr = String(sex || '').toLowerCase()
+  const gender = /fem|female|feminino/i.test(sexStr) ? 'female' : 'male'
+  const fullName = faker.person.fullName({sex: gender})
 
   return {
     id: id,
-    nome: `${firstName} ${lastName}`,
-    email: faker.internet.email({ firstName, lastName }),
-    sex: sex,
-    foto: faker.image.personPortrait({sex: faker.person.sexType(), size: "128"}), 
+    sexo: sex,
+    nome: `${fullName}`,
+    email: faker.internet.email({ firstName: fullName.split(' ')[0], lastName: fullName.split(' ').slice(1).join(' ') }).toLowerCase(), 
+    foto: faker.image.personPortrait({ sex: gender, size: "512" }), 
     cargo: faker.person.jobTitle(),
     resumo: faker.company.catchPhrase(),
     localizacao: `${faker.location.city()}/${faker.location.state({ abbreviated: true })}`,
     area: area,
 
-    habilidadesTecnicas: faker.helpers.arrayElements(HARD_SKILLS, { min: 3, max: 5 }),
+    habilidadesTecnicas: faker.helpers.arrayElements(HARD_SKILLS, { min: 3, max: 10 }),
 
-    softSkills: faker.helpers.arrayElements(SOFT_SKILLS, { min: 2, max: 4 }),
+    softSkills: faker.helpers.arrayElements(SOFT_SKILLS, { min: 2, max: 5 }),
 
     experiencias: Array.from({ length: faker.number.int({ min: 1, max: 3 }) }, () => ({
       empresa: faker.company.name(),
