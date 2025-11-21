@@ -71,12 +71,12 @@ export default function Home() {
         <div className="grid gap-6 grid-cols-1 md:grid-cols-3 justify-items-center">
             {dataCards.map((f) => (
                 <Card
-                key={f.title}
-                variant="elevated"
-                className="bg-zinc-700 transform transition-transform duration-200 ease-out hover:-translate-y-2 hover:shadow-xl mx-auto max-w-sm"
-                header={<IconBadge icon={f.icon} bgClass={f.bgClass} textClass={f.textClass} />}
-                footer={f.footer}
-                >
+                    key={f.title}
+                    variant="elevated"
+                    className="bg-zinc-700 transform transition-transform duration-200 ease-out hover:-translate-y-2 hover:shadow-xl mx-auto max-w-sm"
+                    header={<IconBadge icon={f.icon} bgClass={f.bgClass} textClass={f.textClass} />}
+                    footer={f.footer}
+                    >
                     {f.title}
                 </Card>
             ))}
