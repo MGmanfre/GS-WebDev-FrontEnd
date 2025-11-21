@@ -17,16 +17,13 @@ export default function ContactForm({ onSubmit: externalSubmit } = {}) {
 
   const submit = async (data) => {
     setSuccess(false)
-    // If caller provided a submit handler, call it
     if (externalSubmit) {
       await externalSubmit(data)
       setSuccess(true)
       reset()
       return
     }
-    console.log("Render")
-
-    // Simulate an async submit (replace with fetch/axios real call)
+    
     await new Promise((res) => setTimeout(res, 900))
     setSuccess(true)
     reset()
