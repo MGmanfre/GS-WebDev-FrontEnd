@@ -11,7 +11,7 @@ export default function Hero({
       className="relative overflow-hidden"
       aria-label="Hero principal"
     >
-      <div className="absolute inset-0 bg-gradient-to-r from-sky-800 to-cyan-500"></div>
+      <div className="absolute inset-0 bg-linear-to-r from-sky-800 to-cyan-500"></div>
       <div className="absolute inset-0 bg-black/10 pointer-events-none"></div>
 
       <div className="relative z-10 max-w-7xl mx-auto px-6 py-24 md:py-32 lg:py-40">

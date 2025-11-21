@@ -87,20 +87,27 @@ export default function About() {
         text={null}
         />
 
-      <Section className=''>
-          <div className="grid gap-6 grid-cols-1 md:grid-cols-2 justify-items-start mx-10 text-left">
-            <div className='flex flex-col gap-4'>
-              <h2 className='text-white text-4xl font-bold'>Como Tudo Começou</h2>
-              <div className="flex flex-col gap-3 text-lg text-gray-200">
-                <p>O FuturoConnect nasceu da observação de que o mundo do trabalho estava passando por uma transformação profunda. A tecnologia estava mudando não apenas como trabalhamos, mas também o que significa ser profissional no século XXI.</p>
-                <p>Percebemos que as plataformas existentes focavam apenas em currículos e vagas, ignorando a complexidade das relações profissionais modernas. Faltava um espaço que valorizasse não apenas as habilidades técnicas, mas também as soft skills, os valores pessoais e o propósito de cada profissional.</p>
-                <p>Foi assim que nasceu nossa plataforma: um ecossistema completo para conectar pessoas que compartilham não apenas competências, mas também visões de futuro e valores profundos.</p>
-              </div>
-            </div>
-            <div className="flex flex-col gap-8 justify-center bg-gradient-to-r from-sky-800 via-indigo-700 to-purple-800 p-6 rounded-xl shadow-lg py-8 px-20">
-                {features.map(f => <FeatureItem key={f.id} {...f} />)}
+      <Section>
+        <div className="grid gap-6 grid-cols-1 md:grid-cols-2 items-start px-4 sm:px-6 md:px-10 text-left">
+          <div className='flex flex-col gap-4 max-w-xl'>
+            <h2 className='text-zinc-950 dark:text-gray-100 text-3xl md:text-4xl font-bold'>Como Tudo Começou</h2>
+            <div className="flex flex-col gap-3 text-base md:text-lg leading-relaxed text-zinc-950 dark:text-gray-100">
+              <p>O FuturoConnect nasceu da observação de que o mundo do trabalho estava passando por uma transformação profunda. A tecnologia estava mudando não apenas como trabalhamos, mas também o que significa ser profissional no século XXI.</p>
+              <p>Percebemos que as plataformas existentes focavam apenas em currículos e vagas, ignorando a complexidade das relações profissionais modernas. Faltava um espaço que valorizasse não apenas as habilidades técnicas, mas também as soft skills, os valores pessoais e o propósito de cada profissional.</p>
+              <p>Foi assim que nasceu nossa plataforma: um ecossistema completo para conectar pessoas que compartilham não apenas competências, mas também visões de futuro e valores profundos.</p>
             </div>
           </div>
+
+          <div className="flex flex-col gap-6 w-full justify-center bg-linear-to-r from-sky-800 via-indigo-700 to-purple-800 p-6 sm:p-8 md:p-6 rounded-xl shadow-lg">
+            <div className="flex flex-col gap-4 w-full">
+              {features.map(f => (
+                <div key={f.id} className="w-full">
+                  <FeatureItem {...f} />
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
       </Section>
 
       <Section

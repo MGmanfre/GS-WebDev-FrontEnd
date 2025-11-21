@@ -48,7 +48,7 @@ export default function UsersCard({ user, className = '', onClick = () => {} }) 
                   <span key={t} className="text-xs bg-blue-700/10 text-blue-700 dark:bg-blue-700/20 dark:text-blue-200 px-3 py-1 rounded-full">{t}</span>
                 ))}
                 {moreCount > 0 && (
-                  <span title={`+${moreCount} outras habilidades`} className="text-xs bg-zinc-200 dark:bg-zinc-700 text-zinc-700 dark:text-zinc-300 px-3 py-1 rounded-full">+{moreCount}</span>
+                  <span title={`+${moreCount} outras habilidades`} className="text-xs bg-zinc-300 dark:bg-zinc-700 text-zinc-700 dark:text-zinc-300 px-3 py-1 rounded-full">+{moreCount}</span>
                 )}
               </>
             ) : (

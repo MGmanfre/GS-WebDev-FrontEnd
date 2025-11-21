@@ -4,7 +4,6 @@ import { IoClose } from 'react-icons/io5'
 import {Spinner} from "@heroui/spinner";
 import profissionais from '../assets/json/profissionais.json'
 
-/* Simple debounce hook without external libs */
 function useDebounce(value, delay = 400) {
   const [debounced, setDebounced] = useState(value)
   useEffect(() => {
@@ -14,7 +13,6 @@ function useDebounce(value, delay = 400) {
   return debounced
 }
 
-/* SearchFilters component */
 export default function SearchFilters({ onSearch, count = 0 }) {
   const [q, setQ] = useState('')
   const [area, setArea] = useState('')
@@ -23,22 +21,17 @@ export default function SearchFilters({ onSearch, count = 0 }) {
 
   const debouncedQ = useDebounce(q, 400)
   const debouncedTech = useDebounce(techFilter, 400)
-  // You can also debounce selects if you call API on change
 
-  // Show a small loading indicator while the user is typing (debounce delay)
   const [isTyping, setIsTyping] = useState(false)
   useEffect(() => {
-    // if there's any input, start typing state
     if (q && q.length > 0) setIsTyping(true)
     else setIsTyping(false)
   }, [q])
 
-  // when debounced value updates, typing stops
   useEffect(() => {
     setIsTyping(false)
   }, [debouncedQ])
 
-  // Prepare dataset-derived options
   const dataset = useMemo(() => Array.isArray(profissionais) ? profissionais.filter(Boolean) : [], [])
 
   const areas = useMemo(() => {
@@ -53,7 +46,6 @@ export default function SearchFilters({ onSearch, count = 0 }) {
     const s = new Set()
     dataset.forEach((it) => {
       if (it && it.localizacao) {
-        // Extract part before '/' if present (e.g. 'São Paulo/SP')
         const cityPart = String(it.localizacao).split('/')[0].trim()
         if (cityPart) s.add(cityPart)
       }
@@ -61,7 +53,6 @@ export default function SearchFilters({ onSearch, count = 0 }) {
     return Array.from(s).sort()
   }, [dataset])
 
-  // Build the query params object, only include filled values
   const queryParams = useMemo(() => {
     const params = {}
     if (debouncedQ?.trim()) params.q = debouncedQ.trim()
@@ -71,7 +62,6 @@ export default function SearchFilters({ onSearch, count = 0 }) {
     return params
   }, [debouncedQ, area, city, debouncedTech])
 
-  // Call parent callback when query changes (debounced)
   useEffect(() => {
     if (onSearch) onSearch(queryParams)
   }, [queryParams, onSearch])
@@ -85,7 +75,6 @@ export default function SearchFilters({ onSearch, count = 0 }) {
 
   return (
     <div className="space-y-3">
-      {/* Top row: search + two selects */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
         <div className="relative">
           <HiSearch className="absolute left-3 top-1/2 -translate-y-1/2 text-zinc-400" />
@@ -138,7 +127,6 @@ export default function SearchFilters({ onSearch, count = 0 }) {
         </select>
       </div>
 
-      {/* Big filter input (full width) */}
       <div className="relative">
         <HiCode className="absolute left-4 top-1/2 -translate-y-1/2 text-zinc-400" />
         <input
@@ -150,7 +138,6 @@ export default function SearchFilters({ onSearch, count = 0 }) {
         />
       </div>
 
-      {/* Actions: clear button */}
       <div className="flex items-center justify-between text-sm text-zinc-600 dark:text-zinc-300">
         <div className="text-sm text-zinc-500 dark:text-zinc-300">Exibindo <span className="font-medium text-zinc-900 dark:text-gray-100">{count}</span> profissionais</div>
         <div className="flex gap-2">

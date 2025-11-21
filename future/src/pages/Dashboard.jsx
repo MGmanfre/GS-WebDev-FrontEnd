@@ -14,6 +14,8 @@ export default function Dashboard() {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
   const [selectedUser, setSelectedUser] = useState(null)
+  const [visibleCount, setVisibleCount] = useState(20)
+  const PAGE_SIZE = 20
 
   const norm = (v = '') => String(v).toLowerCase()
 
@@ -53,6 +55,8 @@ export default function Dashboard() {
         })
 
       setResults(items)
+      // reset visible count when search results change
+      setVisibleCount(PAGE_SIZE)
     } catch (err) {
       setError(err.message || 'Erro ao filtrar dados')
     } finally {
@@ -63,6 +67,8 @@ export default function Dashboard() {
   useEffect(() => {
     handleSearch({})
   }, [handleSearch])
+
+  const visibleResults = results.slice(0, visibleCount)
 
   return (
     <div>
@@ -82,11 +88,24 @@ export default function Dashboard() {
               {results.length === 0 ? (
                 <div>Nenhum resultado</div>
               ) : (
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {results.map((r) => (
-                    <UsersCard key={r.id} user={r} onClick={() => setSelectedUser(r)} className="transform transition-transform duration-200 ease-out hover:-translate-y-2 hover:shadow-xl"/>
-                  ))}
-                </div>
+                <>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                    {visibleResults.map((r) => (
+                      <UsersCard key={r.id} user={r} onClick={() => setSelectedUser(r)} className="transform transition-transform duration-200 ease-out hover:-translate-y-2 hover:shadow-xl"/>
+                    ))}
+                  </div>
+
+                  {visibleCount < results.length && (
+                    <div className="mt-8 flex justify-center">
+                      <button
+                        onClick={() => setVisibleCount((v) => Math.min(results.length, v + PAGE_SIZE))}
+                        className="cursor-pointer px-6 py-3 text-lg font-semibold rounded-full bg-cyan-600 hover:bg-cyan-700 text-white shadow-md"
+                      >
+                        Mostrar mais
+                      </button>
+                    </div>
+                  )}
+                </>
               )}
             </div>
           )}

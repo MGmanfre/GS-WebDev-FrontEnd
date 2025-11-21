@@ -64,7 +64,6 @@ export default function Home() {
         </Link>
       </Hero>
       <Section
-        className='py-16'
         title="Por que escolher o SkillBridge?"
         subtitle="A plataforma completa para o profissional do futuro"
         >
@@ -73,7 +72,7 @@ export default function Home() {
                 <Card
                     key={f.title}
                     variant="elevated"
-                    className="bg-zinc-700 transform transition-transform duration-200 ease-out hover:-translate-y-2 hover:shadow-xl mx-auto max-w-sm"
+                    className="bg-gray-300 transform transition-transform duration-200 ease-out hover:-translate-y-2 hover:shadow-xl mx-auto max-w-sm"
                     header={<IconBadge icon={f.icon} bgClass={f.bgClass} textClass={f.textClass} />}
                     footer={f.footer}
                     >

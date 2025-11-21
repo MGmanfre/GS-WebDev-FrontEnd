@@ -9,8 +9,9 @@ import { RegisterForm } from './components/RegisterForm';
 export default function Layout() {
   const [openLogin, setOpenLogin] = useState(false);
   const [openRegister, setOpenRegister] = useState(false);
+
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className={`min-h-screen flex flex-col bg-gray-200 text-zinc-950 dark:bg-zinc-900 dark:text-gray-100 dark`}>
       <Header>
         <Button onClick={() => setOpenLogin(true)} variant='black' className='text-xl transition-all duration-500'>Login</Button>
       </Header>
@@ -30,7 +31,7 @@ export default function Layout() {
             setOpenLogin(true);
           }}
         />
-      <main className=" flex-1">
+      <main className="flex-1 bg-gray-200 text-zinc-950 dark:bg-zinc-900 dark:text-gray-100">
         <Outlet />
       </main>
       <Footer />
