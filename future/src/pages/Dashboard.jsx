@@ -76,7 +76,7 @@ export default function Dashboard() {
         title="Encontre Profissionais Incríveis"
         subtitle="Conecte-se com talentos que compartilham seus valores e objetivos"
       />
-      <Section className='border-t-0 border-b border-zinc-950'>
+      <Section className='border-t-0 border-b border-zinc-950 dark:border-gray-100'>
         <SearchFilters onSearch={handleSearch} count={results.length} />
       </Section>
       <Section>
@@ -99,7 +99,7 @@ export default function Dashboard() {
                     <div className="mt-8 flex justify-center">
                       <button
                         onClick={() => setVisibleCount((v) => Math.min(results.length, v + PAGE_SIZE))}
-                        className="cursor-pointer px-6 py-3 text-lg font-semibold rounded-full bg-cyan-600 hover:bg-cyan-700 text-white shadow-md"
+                        className="cursor-pointer px-6 py-3 text-lg font-semibold rounded-xl border-2 border-zinc-900 dark:border-gray-200 bg-gray-400 dark:bg-zinc-700 hover:bg-transparent text-zinc-950 hover:text-zinc-950 dark:text-gray-100 dark:hover:text-gray-100 transition-all duration-200 shadow-md w-full"
                       >
                         Mostrar mais
                       </button>

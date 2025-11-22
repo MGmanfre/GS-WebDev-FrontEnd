@@ -72,7 +72,7 @@ export default function Home() {
                 <Card
                     key={f.title}
                     variant="elevated"
-                    className="bg-gray-300 transform transition-transform duration-200 ease-out hover:-translate-y-2 hover:shadow-xl mx-auto max-w-sm"
+                    className="transform transition-transform duration-200 ease-out hover:-translate-y-2 hover:shadow-xl mx-auto max-w-sm"
                     header={<IconBadge icon={f.icon} bgClass={f.bgClass} textClass={f.textClass} />}
                     footer={f.footer}
                     >

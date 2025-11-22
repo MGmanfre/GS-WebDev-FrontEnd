@@ -7,7 +7,9 @@ export default function TeamCard({
   description,
   avatar = null,
   gradient = 'from-blue-500 to-blue-400',
-  className = ''
+  className = '',
+  bgClass="bg-gray-300 dark:bg-zinc-700",
+  textClass="text-zinc-950 dark:text-gray-100"
 }) {
   const gradientClass = `bg-gradient-to-b ${gradient}`
 
@@ -23,10 +25,10 @@ export default function TeamCard({
         )}
       </div>
       
-      <div className="bg-zinc-800 p-6 flex-1 flex flex-col">
-        <h3 className="text-white text-lg font-semibold">{name}</h3>
-        {role && <p className="text-sm mt-1 text-emerald-400">{role}</p>}
-        {description && <p className="text-zinc-300 text-sm mt-4 flex-1">{description}</p>}
+      <div className={`${bgClass} ${textClass} p-6 flex-1 flex flex-col`}>
+        <h3 className="text-lg font-semibold">{name}</h3>
+        {role && <p className="text-sm mt-1 text-emerald-700 dark:text-emerald-400">{role}</p>}
+        {description && <p className="text-zinc-700 dark:text-gray-300 text-sm mt-4 flex-1">{description}</p>}
       </div>
     </div>
   )

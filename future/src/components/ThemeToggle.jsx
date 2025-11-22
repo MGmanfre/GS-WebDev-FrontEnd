@@ -30,7 +30,7 @@ export default function ThemeToggle() {
       {theme === 'dark' ? (
         <HiSun className="w-5 h-5 text-white" />
       ) : (
-        <HiMoon className="w-5 h-5 text-white" />
+        <HiMoon className="w-5 h-5 text-black" />
       )}
     </button>
   )

@@ -11,7 +11,7 @@ export default function Layout() {
   const [openRegister, setOpenRegister] = useState(false);
 
   return (
-    <div className={`min-h-screen flex flex-col bg-gray-200 text-zinc-950 dark:bg-zinc-900 dark:text-gray-100 dark`}>
+    <div className={`min-h-screen flex flex-col bg-gray-200 text-zinc-950 dark:bg-zinc-900 dark:text-gray-100`}>
       <Header>
         <Button onClick={() => setOpenLogin(true)} variant='black' className='text-xl transition-all duration-500'>Login</Button>
       </Header>

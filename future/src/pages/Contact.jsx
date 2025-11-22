@@ -34,14 +34,14 @@ const features = [
 
 export default function Contact() {
   return (
-    <div className="bg-zinc-800 py-12">
+    <div className="bg-gray-200 dark:bg-zinc-900 py-12">
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-8 items-start">
         <div className="md:col-span-2">
           <ContactForm />
         </div>
         <aside className="md:col-span-1 flex flex-col gap-6">
           {features.map((f) => (
-            <div key={f.id} className='bg-zinc-700 rounded-xl p-6 transform transition-transform duration-200 ease-out hover:-translate-y-2 hover:shadow-xl'>
+            <div key={f.id} className='bg-gray-300 dark:bg-zinc-700 rounded-xl p-6 transform transition-transform duration-200 ease-out hover:-translate-y-2 hover:shadow-xl'>
               <FeatureItem {...f}/>
             </div>
           ))}

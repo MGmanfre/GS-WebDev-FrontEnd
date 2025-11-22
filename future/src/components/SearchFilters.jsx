@@ -143,7 +143,7 @@ export default function SearchFilters({ onSearch, count = 0 }) {
         <div className="flex gap-2">
           <button
             onClick={clearAll}
-            className="cursor-pointer px-3 py-2 rounded-lg bg-transparent border-2 border-gray-200 dark:border-zinc-700 text-zinc-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-white/5"
+            className="cursor-pointer px-3 py-2 rounded-lg bg-transparent border-2 border-zinc-700 dark:border-zinc-700 text-zinc-700 dark:text-gray-200 hover:bg-gray-100 dark:hover:bg-white/5"
           >
             Limpar filtros
           </button>

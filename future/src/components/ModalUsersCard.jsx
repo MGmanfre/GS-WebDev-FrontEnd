@@ -3,7 +3,7 @@ import { GoHeart } from "react-icons/go";
 import { MdOutlineEmail } from "react-icons/md";
 
 export default function ModalUsersCard({ user, visible = false, onClose = () => {} }) {
-  const [toast, setToast] = useState(null) // { message }
+  const [toast, setToast] = useState(null)
 
   useEffect(() => {
     if (!visible) setToast(null)
@@ -38,11 +38,11 @@ export default function ModalUsersCard({ user, visible = false, onClose = () => 
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center">
-      {/* overlay */}
+
       <div onClick={onClose} className="absolute inset-0 bg-black/50 backdrop-blur-sm" />
 
       <div className="relative w-[min(980px,95%)] max-h-[90vh] overflow-auto rounded-2xl bg-white text-zinc-900 dark:bg-zinc-900 dark:text-gray-100 shadow-2xl p-6">
-        {/* Close button */}
+
         <button onClick={onClose} aria-label="Fechar" className="cursor-pointer absolute top-4 right-4 text-zinc-600 dark:text-zinc-300 hover:opacity-80">
           ✕
         </button>
@@ -51,18 +51,18 @@ export default function ModalUsersCard({ user, visible = false, onClose = () => 
           {foto ? (
             <img src={foto} alt={nome} className="h-20 w-20 rounded-full object-cover ring-2 ring-cyan-400" />
           ) : (
-            <div className="h-20 w-20 rounded-full bg-zinc-200 dark:bg-zinc-700 flex items-center justify-center font-semibold text-xl">{(nome||'').split(' ').map(s=>s[0]).slice(0,2).join('').toUpperCase()}</div>
+            <div className="h-20 w-20 rounded-full bg-zinc-400 dark:bg-zinc-700 flex items-center justify-center font-semibold text-xl">{(nome||'').split(' ').map(s=>s[0]).slice(0,2).join('').toUpperCase()}</div>
           )}
 
           <h2 className="mt-4 text-2xl font-bold">{nome}</h2>
           <div className="text-cyan-700 dark:text-cyan-300 mt-1">{cargo}</div>
           {(area || localizacao) && <div className="text-sm text-zinc-600 dark:text-zinc-400 mt-1">{area} {area && localizacao && '·'} {localizacao}</div>}
 
-          {resumo && <blockquote className="mt-4 max-w-[90%] text-sm text-zinc-700 dark:text-zinc-300 bg-zinc-100 dark:bg-zinc-800 px-4 py-3 rounded">"{resumo}"</blockquote>}
+          {resumo && <blockquote className="mt-4 max-w-[90%] text-sm text-zinc-700 dark:text-zinc-300 bg-zinc-300 dark:bg-zinc-800 px-4 py-3 rounded">"{resumo}"</blockquote>}
         </div>
 
         <div className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div className="bg-zinc-100 dark:bg-zinc-800 p-4 rounded">
+          <div className="bg-zinc-300 dark:bg-zinc-800 p-4 rounded">
             <h3 className="font-semibold mb-2">Informações Pessoais</h3>
             <div className="text-sm text-zinc-700 dark:text-zinc-300">
               <div><span className="font-medium">Sexo:</span> {String(sexo)}</div>
@@ -72,7 +72,7 @@ export default function ModalUsersCard({ user, visible = false, onClose = () => 
             </div>
           </div>
 
-          <div className="bg-zinc-100 dark:bg-zinc-800 p-4 rounded">
+          <div className="bg-zinc-300 dark:bg-zinc-800 p-4 rounded">
             <h3 className="font-semibold mb-2">Formação Acadêmica</h3>
             <div className="text-sm text-zinc-700 dark:text-zinc-300">
               {formacao && formacao.length > 0 ? (
@@ -121,7 +121,6 @@ export default function ModalUsersCard({ user, visible = false, onClose = () => 
           <button onClick={handleSendMessage} className="flex-1 flex items-center justify-center flex-row gap-2 cursor-pointer bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-3 rounded"><MdOutlineEmail/> Enviar Mensagem</button>
         </div>
 
-        {/* toast */}
         {toast && (
           <div className="fixed bottom-8 right-8 z-60 bg-emerald-600 text-white px-4 py-2 rounded shadow-lg">{toast}</div>
         )}

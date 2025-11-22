@@ -7,10 +7,10 @@ export default function Header({ children }) {
   const [open, setOpen] = useState(false)
 
   return (
-    <header className="sticky p-4 top-0 z-40 bg-white text-zinc-900 dark:bg-zinc-800 dark:text-white backdrop-blur-sm border-t-0 border-b border-zinc-200 dark:border-white/10">
+    <header className="sticky p-4 top-0 z-40 bg-white text-zinc-900 dark:bg-zinc-900 dark:text-white backdrop-blur-sm border-t-0 border-b border-zinc-700 dark:border-zinc-200">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="h-16 flex items-center justify-between">
-          <Link to="/" className="flex items-center gap-3 hover:text-black transition-colors duration-200">
+          <Link to="/" className="flex items-center gap-3 hover:text-cyan-700 dark:hover:text-cyan-300 transition-colors duration-200">
             <img src={logo} alt="Logo" className="h-20 w-auto rounded-2xl" />
             <span className="hidden sm:inline text-2xl font-semibold">SkillBridge</span>
           </Link>
