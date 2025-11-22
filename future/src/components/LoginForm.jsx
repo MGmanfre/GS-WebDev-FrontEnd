@@ -21,6 +21,8 @@ export function LoginForm({
   isOpen,
   onClose = () => {},
   onSwitchToRegister = () => {},
+  bgClass = 'bg-gray-300 dark:bg-zinc-700',
+  textClass = 'text-zinc-950 dark:text-gray-100',
   ...props
 }) {
   useEffect(() => {
@@ -41,47 +43,44 @@ export function LoginForm({
       role="dialog"
       {...props}
     >
-      <div
-        className="absolute inset-0 bg-gray-800/50 backdrop-blur-sm"
-        onClick={onClose}
-      />
-      <div className="bg-white rounded-xl relative z-10 w-full max-w-md">
+      <div className="absolute inset-0 bg-gray-800/50 backdrop-blur-sm" onClick={onClose} />
+      <div className={`${bgClass} rounded-xl relative z-10 w-full max-w-md`}>
         <Card>
           <CardHeader>
-            <CardTitle>Login to your account</CardTitle>
+              <CardTitle className={textClass}>Login to your account</CardTitle>
           </CardHeader>
           <CardContent>
             <form>
               <FieldGroup>
                 <Field>
-                  <FieldLabel htmlFor="email">Email</FieldLabel>
-                  <Input id="email" type="email" placeholder="m@example.com" required autoFocus />
+                    <FieldLabel htmlFor="email" className={textClass}>Email</FieldLabel>
+                    <Input id="email" type="email" placeholder="m@example.com" required autoFocus className={`bg-white dark:bg-zinc-800 ${textClass}`} />
                 </Field>
                 <Field>
                   <div className="flex items-center">
-                    <FieldLabel htmlFor="password">Password</FieldLabel>
-                    <a
-                      href="#"
-                      className="ml-auto inline-block text-sm underline-offset-4 hover:underline"
-                      onClick={()=> console.log("Forget Password Clicked")}
-                      >
-                      Forgot your password?
-                    </a>
+                      <FieldLabel htmlFor="password" className={textClass}>Password</FieldLabel>
+                      <a
+                        href="#"
+                        className={`ml-auto inline-block text-sm underline-offset-4 hover:underline ${textClass}`}
+                        onClick={()=> console.log("Forget Password Clicked")}
+                        >
+                        Forgot your password?
+                      </a>
                   </div>
-                  <Input id="password" type="password" required />
+                    <Input id="password" type="password" required className={`bg-white dark:bg-zinc-800 ${textClass}`} />
                 </Field>
                 <Field>
                   <div className="mt-2">
-                    <Button className="w-full cursor-pointer border-2 hover:bg-black hover:text-white" type="submit">Login</Button>
+                      <Button className={`w-full cursor-pointer border-2 hover:bg-black hover:text-white ${textClass}`} type="submit">Login</Button>
                   </div>
-                  <FieldDescription className="text-center mt-3">
-                    Don&apos;t have an account? {" "}
-                    <a 
-                      className="cursor-pointer" 
-                      onClick={() => onSwitchToRegister()}>
-                      Sign up
-                    </a>
-                  </FieldDescription>
+                    <FieldDescription className={`text-center mt-3 ${textClass}`}>
+                      Don&apos;t have an account? {" "}
+                      <a 
+                        className={`cursor-pointer ${textClass}`} 
+                        onClick={() => onSwitchToRegister()}>
+                        Sign up
+                      </a>
+                    </FieldDescription>
                 </Field>
               </FieldGroup>
             </form>
